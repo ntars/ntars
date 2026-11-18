@@ -2,7 +2,7 @@
 
 **Progrès sans fin, possibilité sans fin.**
 
-[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | **Français** | [Русский](README.ru.md) | [Español](README.es.md) | [العربية](README.ar.md)
+[简体中文](README.md) | [English](README_EN.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | **Français** | [Русский](README_RU.md) | [Español](README_ES.md) | [العربية](README_AR.md)
 
 Développeur indépendant, fondateur de Ntarstudio. Je conçois des logiciels local-first, souverains en matière de données et vérifiables.
 
@@ -24,10 +24,10 @@ Développeur indépendant, fondateur de Ntarstudio. Je conçois des logiciels lo
 | Projet | Description | Technologies | État | Licence | Entrée |
 | --- | --- | --- | --- | --- | --- |
 | **[Xael](https://github.com/ntars/Xael)** | Corpus hors ligne de métaphysique chinoise, 22 fonctions calculées depuis les principes premiers, sans tables de correspondance, sans réseau | JavaScript (aucune dépendance) | 5.0.0 publiée | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Ondra](https://github.com/ntars/Ondra)** | Compagnon IA entièrement modulaire, 75 plugins chargeables, toutes les données restent en local, sur macOS / Windows / Android | TypeScript · Rust · Tauri | Bêta `1.3.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Ondra](https://github.com/ntars/Ondra)** | Compagnon IA entièrement modulaire : l'interface ne lit que la projection des plugins ; émotion, mémoire et contexte au cœur ; données locales | Flutter · Cordis 4.1.0 | Bêta `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | Une boîte à outils Android dans le navigateur : ADB et Fastboot en WebUSB, 152 fonctions | TypeScript · Vite · WebUSB | 0.1.0 publiée | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | Suite d'interopérabilité bidirectionnelle macOS ↔ Windows ; les quatre directions terminées, avec accès MCP | Node.js · Python · Rust | Disponible | MIT | [dépôt](https://github.com/ntars/Wacmin) |
-| **[TapMC](https://github.com/ntars/TapMC)** | Lanceur Minecraft Java Edition multiplateforme sur macOS / Windows / Linux / Android / iOS, offrant le toucher de Bedrock sur mobile | Rust · Tauri 2 | Développement initial | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/TapMC) |
+| **[TapMC](https://github.com/ntars/TapMC)** | Squelette de jeu sandbox multijoueur modulaire : front Flutter sur sept cibles et serveur Java, reliés par un seul contrat JSON-RPC 2.0 | Flutter · Java 21 | Étape de squelette | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Suite de personnalisation du bureau Windows : dock, barre de menus, widgets, îlot dynamique | À définir | Planifié | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Site du studio et index des projets ; un fichier HTML, une feuille de style, quelques scripts natifs | HTML · CSS · Vanilla JS | En ligne | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 

@@ -2,7 +2,7 @@
 
 **无限进步，无限可能。**
 
-[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Русский](README.ru.md) | [Español](README.es.md) | [العربية](README.ar.md)
+[简体中文](README.md) | [English](README_EN.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [Français](README_FR.md) | [Русский](README_RU.md) | [Español](README_ES.md) | [العربية](README_AR.md)
 
 独立开发者，星玖工作室（Ntarstudio）创始人。做本地优先、数据自主、结论可复核的软件。
 
@@ -26,16 +26,16 @@
 | 项目 | 是什么 | 技术 | 状态 | 许可 | 入口 |
 | --- | --- | --- | --- | --- | --- |
 | **[玄玖灵犀 Xael](https://github.com/ntars/Xael)** | 本地离线的中华文化术数文献库，22 项功能从零演算，不查表、不联网 | JavaScript（零依赖） | 5.0.0 已上线 | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[空谷 Ondra](https://github.com/ntars/Ondra)** | 全插件式 AI 陪伴体，75 个可装卸插件，数据全留本机，macOS / Windows / Android 三端 | TypeScript · Rust · Tauri | 内测 `1.3.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Webroit](https://github.com/ntars/Webroit)** | 浏览器里的安卓玩机工具箱，WebUSB 直连 ADB 与 Fastboot，152 项能力 | TypeScript · Vite · WebUSB | 0.1.0 已上线 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
-| **[Wacmin](https://github.com/ntars/Wacmin)** | macOS 与 Windows 的双向互通套件，四个方向全部完成，并开放 MCP 接入 | Node.js · Python · Rust | 可用 | MIT | [仓库](https://github.com/ntars/Wacmin) |
-| **[TapMC](https://github.com/ntars/TapMC)** | 一款多端 Minecraft Java 版启动器：可在 mac / win / linux / android / ios 上管理版本与模组，并赋予手机端的 Java 版拥有基岩版那样的触屏手感 | Rust · Tauri 2 | 开发初期 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/TapMC) |
+| **[空谷 Ondra](https://github.com/ntars/Ondra)** | 全插件式 AI 陪伴体：界面只读插件投影，情绪、记忆、上下文三大机制，数据全留本机 | Flutter · Cordis 4.1.0 | 内测 `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Webroit](https://github.com/ntars/Webroit)** | 浏览器里的安卓玩机工具箱，WebUSB 直连 ADB 与 Fastboot，152 项能力 | TypeScript · Vite · WebUSB | 0.1.0-dev 已上线 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[Wacmin](https://github.com/ntars/Wacmin)** | macOS 与 Windows 的双向互通套件，四个方向全部完成，并开放 MCP 接入 | Node.js · Python · Rust | 可用 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Wacmin) |
+| **[TapMC](https://github.com/ntars/TapMC)** | 可模组化的多人沙盒游戏骨架：Flutter 七端前端 + Java 服务端，只通过一份 JSON-RPC 2.0 协议耦合 | Flutter · Java 21 | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Windows 端桌面美化套装，dock、顶部栏、小组件、灵动岛 | 待定 | 排期开发 / Planned | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | 工作室官网与项目总索引，一个 HTML、一份样式表、几个原生脚本 | HTML · CSS · Vanilla JS | 已上线 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 
 **七个项目 = 官网首页的七张卡片。** 三处清单（官网卡片、本页、各项目 README）口径一致，任一处变更都会同步其余两处。
 
-**状态口径严格区分**：已上线、内测、可用、开发初期、排期开发五种状态不混用，不把规划说成已实现。
+**状态口径严格区分**：已上线、内测、可用、骨架阶段、排期开发五种状态不混用，不把规划说成已实现。
 
 ---
 

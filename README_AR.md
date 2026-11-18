@@ -2,7 +2,7 @@
 
 **تقدُّم لا ينتهي، وإمكانات لا تنتهي.**
 
-[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Русский](README.ru.md) | [Español](README.es.md) | **العربية**
+[简体中文](README.md) | [English](README_EN.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [Français](README_FR.md) | [Русский](README_RU.md) | [Español](README_ES.md) | **العربية**
 
 <div dir="rtl">
 
@@ -26,10 +26,10 @@
 | المشروع | الوصف | التقنيات | الحالة | الترخيص | المدخل |
 | --- | --- | --- | --- | --- | --- |
 | **[Xael](https://github.com/ntars/Xael)** | مدونة الميتافيزيقا الصينية تعمل دون اتصال، 22 وظيفة تُحسب من المبادئ الأولى، دون جداول بحث ودون شبكة | JavaScript (بلا اعتماديات) | 5.0.0 صادرة | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Ondra](https://github.com/ntars/Ondra)** | رفيق ذكاء اصطناعي مبني بالكامل على الإضافات، 75 إضافة قابلة للتحميل، وتبقى كل البيانات على الجهاز، على macOS وWindows وAndroid | TypeScript · Rust · Tauri | إصدار تجريبي `1.3.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Ondra](https://github.com/ntars/Ondra)** | رفيق ذكاء اصطناعي قائم على الإضافات: الواجهة تقرأ إسقاط الإضافات فقط، والانفعال والذاكرة والسياق هي النواة، والبيانات على الجهاز | Flutter · Cordis 4.1.0 | تجريبي `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | صندوق أدوات أندرويد داخل المتصفح: ADB وFastboot عبر WebUSB، و152 وظيفة | TypeScript · Vite · WebUSB | 0.1.0 صادرة | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | حزمة تشغيل متبادل ثنائي الاتجاه بين macOS وWindows؛ الاتجاهات الأربعة مكتملة، مع وصول MCP | Node.js · Python · Rust | متاح | MIT | [المستودع](https://github.com/ntars/Wacmin) |
-| **[TapMC](https://github.com/ntars/TapMC)** | مشغّل Minecraft Java Edition متعدد المنصات على macOS / Windows / Linux / Android / iOS، يمنح الهاتف إحساس اللمس في Bedrock | Rust · Tauri 2 | تطوير مبكر | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/TapMC) |
+| **[TapMC](https://github.com/ntars/TapMC)** | هيكل لعبة رملية متعددة اللاعبين قابلة للتوسيع: واجهة Flutter على سبع منصات وخادم Java، يربطها عقد JSON-RPC 2.0 واحد | Flutter · Java 21 | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | حزمة تجميل سطح مكتب Windows: dock وشريط قوائم وودجات وجزيرة ديناميكية | غير محدد | مخطط / Planned | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | موقع الاستوديو وفهرس المشاريع؛ ملف HTML واحد، ورقة أنماط واحدة، وبضعة سكربتات أصلية | HTML · CSS · Vanilla JS | يعمل | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 

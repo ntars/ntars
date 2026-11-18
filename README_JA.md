@@ -2,7 +2,7 @@
 
 **限りなき前進、限りなき可能性。**
 
-[简体中文](README.md) | [English](README.en.md) | **日本語** | [한국어](README.ko.md) | [Français](README.fr.md) | [Русский](README.ru.md) | [Español](README.es.md) | [العربية](README.ar.md)
+[简体中文](README.md) | [English](README_EN.md) | **日本語** | [한국어](README_KO.md) | [Français](README_FR.md) | [Русский](README_RU.md) | [Español](README_ES.md) | [العربية](README_AR.md)
 
 独立開発者。星玖工作室（Ntarstudio）創業者。ローカル優先・データ主権・検証可能なソフトウェアを作っています。
 
@@ -24,10 +24,10 @@
 | プロジェクト | 内容 | 技術 | 状態 | ライセンス | 入口 |
 | --- | --- | --- | --- | --- | --- |
 | **[Xael（玄玖霊犀）](https://github.com/ntars/Xael)** | オフライン動作する中華文化術数文献ライブラリ。22 機能をゼロから演算、表引きなし、通信なし | JavaScript（依存ゼロ） | 5.0.0 公開済み | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Ondra（空谷）](https://github.com/ntars/Ondra)** | 全プラグイン方式の AI コンパニオン。75 個の着脱可能プラグイン、データはすべて端末内に保持、macOS / Windows / Android の 3 端末 | TypeScript · Rust · Tauri | ベータ `1.3.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Ondra（空谷）](https://github.com/ntars/Ondra)** | 全プラグイン方式の AI コンパニオン。UI はプラグインの投影だけを読み、感情・記憶・文脈が中核、データはすべて端末内 | Flutter · Cordis 4.1.0 | ベータ `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | ブラウザで動く Android 玩机ツールボックス。WebUSB で ADB と Fastboot に直接接続、152 機能 | TypeScript · Vite · WebUSB | 0.1.0 公開済み | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | macOS と Windows の双方向相互運用スイート。4 方向すべて完了、MCP 接続も提供 | Node.js · Python · Rust | 利用可能 | MIT | [リポジトリ](https://github.com/ntars/Wacmin) |
-| **[TapMC](https://github.com/ntars/TapMC)** | 多端末 Minecraft Java 版ランチャー、macOS / Windows / Linux / Android / iOS の 5 端末、スマホ側に統合版のタッチ操作感を | Rust · Tauri 2 | 開発初期 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/TapMC) |
+| **[TapMC](https://github.com/ntars/TapMC)** | モジュール化可能なマルチプレイ砂場ゲームの骨組み。Flutter の 7 端末フロントエンドと Java サーバーを 1 本の JSON-RPC 2.0 契約でつなぐ | Flutter · Java 21 | 骨組み段階 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Windows 向けデスクトップ美化スイート：dock、メニューバー、ウィジェット、ダイナミックアイランド | 未定 | 計画中 / Planned | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | スタジオ公式サイトとプロジェクト総索引。HTML 一枚、スタイルシート一枚、素のスクリプト数本 | HTML · CSS · Vanilla JS | 公開中 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 

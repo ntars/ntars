@@ -2,7 +2,7 @@
 
 **Endless progress, endless possibility.**
 
-[简体中文](README.md) | **English** | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Русский](README.ru.md) | [Español](README.es.md) | [العربية](README.ar.md)
+[简体中文](README.md) | **English** | [日本語](README_JA.md) | [한국어](README_KO.md) | [Français](README_FR.md) | [Русский](README_RU.md) | [Español](README_ES.md) | [العربية](README_AR.md)
 
 Independent developer, founder of Ntarstudio. Building software that is local-first, data-sovereign, and auditable.
 
@@ -24,16 +24,16 @@ Independent developer, founder of Ntarstudio. Building software that is local-fi
 | Project | What it is | Stack | Status | License | Entry |
 | --- | --- | --- | --- | --- | --- |
 | **[Xael](https://github.com/ntars/Xael)** | Offline Chinese metaphysics corpus, 22 functions computed from first principles, no lookup tables, no network | JavaScript (zero dependencies) | 5.0.0 released | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Ondra](https://github.com/ntars/Ondra)** | Fully pluggable AI companion, 75 loadable plugins, all data stays local, on macOS / Windows / Android | TypeScript · Rust · Tauri | Beta `1.3.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Webroit](https://github.com/ntars/Webroit)** | An Android toolbox in the browser: ADB and Fastboot over WebUSB, 152 features | TypeScript · Vite · WebUSB | 0.1.0 released | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[Ondra](https://github.com/ntars/Ondra)** | Plugin-first AI companion: the UI reads only plugin projections; emotion, memory and context are the core mechanisms; all data stays local | Flutter · Cordis 4.1.0 | Beta `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Webroit](https://github.com/ntars/Webroit)** | An Android toolbox in the browser: ADB and Fastboot over WebUSB, 26 features shipped, 152 planned | TypeScript · Vite · WebUSB | 0.1.0 released | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | Bidirectional macOS ↔ Windows interoperability suite; all four directions complete, with MCP access | Node.js · Python · Rust | Available | MIT | [repository](https://github.com/ntars/Wacmin) |
-| **[TapMC](https://github.com/ntars/TapMC)** | A multi-platform Minecraft Java Edition launcher: manage versions and mods on macOS, Windows, Linux, Android and iOS, and give Java Edition on phones the touch feel of Bedrock Edition | Rust · Tauri 2 | Early development | Apache-2.0 / MIT | [repository](https://github.com/ntars/TapMC) |
+| **[TapMC](https://github.com/ntars/TapMC)** | A moddable multiplayer sandbox game skeleton: a Flutter front end on seven platforms plus a Java server, coupled by one JSON-RPC 2.0 contract | Flutter · Java 21 | Skeleton stage | Apache-2.0 / MIT | [repository](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Windows desktop beautification suite: dock, menu bar, widgets, dynamic island | TBD | Planned | Apache-2.0 / MIT | [repository](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Studio website and project index; one HTML file, one stylesheet, a few plain scripts | HTML · CSS · Vanilla JS | Live | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 
 **Seven projects = the seven cards on the official site.** The three lists (site cards, this page, each project README) stay identical; a change in one is reflected in the others.
 
-**Status wording is strictly separated**: released, beta, available, early development and planned are never mixed, and nothing planned is described as built.
+**Status wording is strictly separated**: released, beta, available, skeleton stage and planned are never mixed, and nothing planned is described as built.
 
 ---
 

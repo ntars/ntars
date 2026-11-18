@@ -2,7 +2,7 @@
 
 **끝없는 진보, 끝없는 가능성.**
 
-[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | **한국어** | [Français](README.fr.md) | [Русский](README.ru.md) | [Español](README.es.md) | [العربية](README.ar.md)
+[简体中文](README.md) | [English](README_EN.md) | [日本語](README_JA.md) | **한국어** | [Français](README_FR.md) | [Русский](README_RU.md) | [Español](README_ES.md) | [العربية](README_AR.md)
 
 독립 개발자, 스타지우 스튜디오(Ntarstudio) 창업자. 로컬 우선, 데이터 주권, 검증 가능한 소프트웨어를 만듭니다.
 
@@ -24,10 +24,10 @@
 | 프로젝트 | 내용 | 기술 | 상태 | 라이선스 | 입구 |
 | --- | --- | --- | --- | --- | --- |
 | **[Xael(현구령서)](https://github.com/ntars/Xael)** | 오프라인으로 동작하는 중화 문화 술수 문헌 라이브러리. 22개 기능을 처음부터 연산, 조회표 없음, 네트워크 없음 | JavaScript(의존성 없음) | 5.0.0 공개 | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Ondra(공곡)](https://github.com/ntars/Ondra)** | 전면 플러그인 방식 AI 컴패니언. 75개 탈부착 플러그인, 모든 데이터는 기기 내부에 보관, macOS / Windows / Android 지원 | TypeScript · Rust · Tauri | 베타 `1.3.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Ondra(공곡)](https://github.com/ntars/Ondra)** | 전면 플러그인 방식 AI 컴패니언. UI는 플러그인 투영만 읽고 감정·기억·맥락이 핵심, 데이터는 모두 기기 안 | Flutter · Cordis 4.1.0 | 베타 `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | 브라우저에서 돌아가는 안드로이드 커스터마이징 도구함. WebUSB로 ADB와 Fastboot 직접 연결, 152개 기능 | TypeScript · Vite · WebUSB | 0.1.0 공개 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | macOS와 Windows 양방향 상호운용 제품군. 네 방향 모두 완료, MCP 연결 제공 | Node.js · Python · Rust | 사용 가능 | MIT | [저장소](https://github.com/ntars/Wacmin) |
-| **[TapMC](https://github.com/ntars/TapMC)** | 멀티 플랫폼 Minecraft Java 에디션 런처, macOS / Windows / Linux / Android / iOS 5개 플랫폼, 폰에서 베드락의 터치 감각을 | Rust · Tauri 2 | 초기 개발 | Apache-2.0 / MIT | [저장소](https://github.com/ntars/TapMC) |
+| **[TapMC](https://github.com/ntars/TapMC)** | 모듈화 가능한 멀티플레이 샌드박스 게임 골격. Flutter 7개 플랫폼 프런트엔드와 Java 서버를 하나의 JSON-RPC 2.0 계약으로 연결 | Flutter · Java 21 | 골격 단계 | Apache-2.0 / MIT | [저장소](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Windows 데스크톱 미화 제품군: dock, 메뉴 바, 위젯, 다이내믹 아일랜드 | 미정 | 계획 중 / Planned | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | 스튜디오 공식 사이트 겸 프로젝트 총 색인. HTML 한 장, 스타일시트 한 장, 순수 스크립트 몇 개 | HTML · CSS · Vanilla JS | 공개 중 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 

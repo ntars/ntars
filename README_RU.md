@@ -2,7 +2,7 @@
 
 **Бесконечное движение вперёд, бесконечные возможности.**
 
-[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | **Русский** | [Español](README.es.md) | [العربية](README.ar.md)
+[简体中文](README.md) | [English](README_EN.md) | [日本語](README_JA.md) | [한국어](README_KO.md) | [Français](README_FR.md) | **Русский** | [Español](README_ES.md) | [العربية](README_AR.md)
 
 Независимый разработчик, основатель студии Ntarstudio. Создаю программы, работающие локально, с полным контролем над данными и проверяемыми результатами.
 
@@ -24,10 +24,10 @@
 | Проект | Описание | Технологии | Состояние | Лицензия | Вход |
 | --- | --- | --- | --- | --- | --- |
 | **[Xael](https://github.com/ntars/Xael)** | Автономный корпус китайской метафизики: 22 функции вычисляются с нуля, без таблиц поиска и без сети | JavaScript (без зависимостей) | 5.0.0 выпущена | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Ondra](https://github.com/ntars/Ondra)** | Полностью модульный ИИ-компаньон, 75 подключаемых плагинов, все данные остаются на устройстве, на macOS / Windows / Android | TypeScript · Rust · Tauri | Бета `1.3.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Ondra](https://github.com/ntars/Ondra)** | Полностью модульный ИИ-компаньон: интерфейс читает только проекции плагинов; эмоция, память и контекст — ядро; данные на устройстве | Flutter · Cordis 4.1.0 | Бета `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | Инструментарий для Android в браузере: ADB и Fastboot через WebUSB, 152 функции | TypeScript · Vite · WebUSB | 0.1.0 выпущена | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | Набор двусторонней совместимости macOS ↔ Windows; все четыре направления завершены, есть доступ через MCP | Node.js · Python · Rust | Доступно | MIT | [репозиторий](https://github.com/ntars/Wacmin) |
-| **[TapMC](https://github.com/ntars/TapMC)** | Мультиплатформенный лаунчер Minecraft Java Edition для macOS / Windows / Linux / Android / iOS, с сенсорным управлением как в Bedrock | Rust · Tauri 2 | Ранняя разработка | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/TapMC) |
+| **[TapMC](https://github.com/ntars/TapMC)** | Каркас многопользовательской песочницы с поддержкой модов: фронтенд Flutter на семи платформах и сервер на Java, связанные одним контрактом JSON-RPC 2.0 | Flutter · Java 21 | Этап каркаса | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Набор для оформления рабочего стола Windows: dock, строка меню, виджеты, dynamic island | Не определён | Запланировано | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Сайт студии и индекс проектов; один HTML-файл, одна таблица стилей, несколько нативных скриптов | HTML · CSS · Vanilla JS | Работает | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 
