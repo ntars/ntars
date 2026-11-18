@@ -17,8 +17,6 @@ Développeur indépendant, fondateur de Ntarstudio. Je conçois des logiciels lo
 | Courriel | <ntars@qq.com> · <ntarsx@163.com> |
 | Soutien | <https://ifdian.net/a/ntars/> |
 
----
-
 ## Projets
 
 | Projet | Description | Technologies | État | Licence | Entrée |
@@ -34,6 +32,25 @@ Développeur indépendant, fondateur de Ntarstudio. Je conçois des logiciels lo
 **Sept projets = les sept cartes du site officiel.** Les trois listes (cartes du site, cette page, README de chaque projet) restent identiques ; toute modification de l'une se répercute sur les autres.
 
 **Les états sont strictement distingués** : publié, bêta, disponible, développement initial et planifié ne sont jamais mélangés, et rien de planifié n'est décrit comme réalisé.
+
+---
+
+## Rester en phase avec le site
+
+Cette page et le site officiel partagent une même liste de projets, avec une répartition des rôles.
+
+| Endroit | Rôle | Accent |
+| --- | --- | --- |
+| **Cette page (profil GitHub)** | Un index pour les développeurs | Liens directs vers les dépôts, pile technique, licence, structure des sous-projets |
+| **[www.ntars.cn](https://www.ntars.cn/)** | Une enseigne pour les visiteurs | Identité de marque, cartes de projets, point de contact |
+
+Liens bidirectionnels : l'en-tête et le pied de page du site pointent vers ce dépôt, et les champs « entrée » de cette page pointent vers <https://www.ntars.cn/> et vers le site de chaque projet.
+
+**Trois règles pour des libellés identiques** :
+
+1. **Un projet planifié a quand même une carte, avec son état** — la carte indique « Planifié », donc le visiteur sait avant de cliquer qu'il n'y a rien à télécharger ; le cacher laisserait croire l'inverse ;
+2. **Un changement d'état se répercute en trois endroits** — cette page, le tableau `PROJECTS` d'Apex et le README du projet ;
+3. **Un projet retiré ne réapparaît sous aucune forme** — ni ici, ni sur le site, ni dans les mots-clés ou les données structurées.
 
 ---
 

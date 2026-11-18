@@ -35,6 +35,27 @@ Independent developer, founder of Ntarstudio. Building software that is local-fi
 
 **Status wording is strictly separated**: released, beta, available, skeleton stage and planned are never mixed, and nothing planned is described as built.
 
+## Keeping the site in step
+
+This page and the official site share one project list, with a division of labour:
+
+| Place | Role | Focus |
+| --- | --- | --- |
+| **This page (GitHub profile README)** | An index for developers | Direct repository links, stack, licence, sub-project structure |
+| **[www.ntars.cn](https://www.ntars.cn/)** | A nameplate for visitors | Brand identity, project cards, contact entry |
+
+**Two-way links**:
+
+- The site header and footer both point to this repository and this page;
+- This page's "entry" fields point to <https://www.ntars.cn/> and to each project's own site;
+- The two live products have their own sites (`ai.ntars.cn`, `x.ntars.cn`); this page and Apex link straight to them and do not duplicate their content.
+
+**Three rules that keep the wording identical**:
+
+1. **Planned projects still get a card, with the status stated** — the card says "Planned", so a visitor knows before clicking that there is nothing to download; hiding it invites the opposite reading;
+2. **A status change is updated in three places at once** — this page, Apex's `PROJECTS` array and the project's own README;
+3. **A retired project never reappears in any form** — not on this page, not on the site, not in keywords or structured data.
+
 ---
 
 ## Four principles

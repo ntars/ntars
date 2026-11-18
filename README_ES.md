@@ -17,8 +17,6 @@ Desarrollador independiente, fundador de Ntarstudio. Creo software local-first, 
 | Correo | <ntars@qq.com> · <ntarsx@163.com> |
 | Apoyo | <https://ifdian.net/a/ntars/> |
 
----
-
 ## Proyectos
 
 | Proyecto | Qué es | Tecnologías | Estado | Licencia | Entrada |
@@ -34,6 +32,25 @@ Desarrollador independiente, fundador de Ntarstudio. Creo software local-first, 
 **Siete proyectos = las siete tarjetas del sitio oficial.** Las tres listas (tarjetas del sitio, esta página, README de cada proyecto) coinciden; un cambio en una se refleja en las demás.
 
 **Los estados se distinguen estrictamente**: publicado, beta, disponible, desarrollo inicial y planificado nunca se mezclan, y nada planificado se describe como construido.
+
+---
+
+## En sintonía con el sitio
+
+Esta página y el sitio oficial comparten una misma lista de proyectos, con roles separados.
+
+| Lugar | Papel | Enfoque |
+| --- | --- | --- |
+| **Esta página (perfil de GitHub)** | Un índice para desarrolladores | Enlaces directos a repositorios, pila técnica, licencia, estructura de subproyectos |
+| **[www.ntars.cn](https://www.ntars.cn/)** | Un rótulo para visitantes | Identidad de marca, tarjetas de proyectos, contacto |
+
+Enlaces bidireccionales: la cabecera y el pie del sitio apuntan a este repositorio, y los campos de entrada de esta página apuntan a <https://www.ntars.cn/> y al sitio de cada proyecto.
+
+**Tres reglas para que la redacción coincida**:
+
+1. **Un proyecto planificado también tiene tarjeta, con su estado** — la tarjeta dice «Planificado», así el visitante sabe antes de hacer clic que no hay nada que descargar; ocultarlo sugiere lo contrario;
+2. **Un cambio de estado se actualiza en tres sitios** — esta página, el arreglo `PROJECTS` de Apex y el README del proyecto;
+3. **Un proyecto retirado no reaparece de ninguna forma** — ni aquí, ni en el sitio, ni en palabras clave o datos estructurados.
 
 ---
 
