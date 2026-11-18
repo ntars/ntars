@@ -27,11 +27,13 @@ Independent developer, founder of Ntarstudio. Building software that is local-fi
 | **[Ondra](https://github.com/ntars/Ondra)** | Plugin-first AI companion: the UI reads only plugin projections; emotion, memory and context are the core mechanisms; all data stays local | Flutter · Cordis 4.1.0 | Beta `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | An Android toolbox in the browser: ADB and Fastboot over WebUSB, 26 features shipped, 152 planned | TypeScript · Vite · WebUSB | 0.1.0 released | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | Bidirectional macOS ↔ Windows interoperability suite; all four directions complete, with MCP access | Node.js · Python · Rust | Available | MIT | [repository](https://github.com/ntars/Wacmin) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | Universal specification set covering the project lifecycle; 66 specs in Chinese and English with CLI, MCP and Skill adapters | Markdown · Python CLI | Delivered | MIT | [repository](https://github.com/ntars/Gitrule-skill) |
 | **[TapMC](https://github.com/ntars/TapMC)** | A moddable multiplayer sandbox game skeleton: a Flutter front end on seven platforms plus a Java server, coupled by one JSON-RPC 2.0 contract | Flutter · Java 21 | Skeleton stage | Apache-2.0 / MIT | [repository](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Windows desktop beautification suite: dock, menu bar, widgets, dynamic island | TBD | Planned | Apache-2.0 / MIT | [repository](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Studio website and project index; one HTML file, one stylesheet, a few plain scripts | HTML · CSS · Vanilla JS | Live | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | Source-first visual IDE for Flutter; canvas drag produces Dart you can maintain without the tool | Dart · Flutter | Skeleton `0.1.0` | Apache-2.0 / MIT | [repository](https://github.com/ntars/Flutter-IDE) |
 
-**Seven projects = the seven cards on the official site.** The three lists (site cards, this page, each project README) stay identical; a change in one is reflected in the others.
+**Nine projects = the nine cards on the official site.** The three lists (site cards, this page, each project README) stay identical; a change in one is reflected in the others.
 
 **Status wording is strictly separated**: released, beta, available, skeleton stage and planned are never mixed, and nothing planned is described as built.
 

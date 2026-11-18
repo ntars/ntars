@@ -25,11 +25,13 @@ Développeur indépendant, fondateur de Ntarstudio. Je conçois des logiciels lo
 | **[Ondra](https://github.com/ntars/Ondra)** | Compagnon IA entièrement modulaire : l'interface ne lit que la projection des plugins ; émotion, mémoire et contexte au cœur ; données locales | Flutter · Cordis 4.1.0 | Bêta `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | Une boîte à outils Android dans le navigateur : ADB et Fastboot en WebUSB, 152 fonctions | TypeScript · Vite · WebUSB | 0.1.0 publiée | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | Suite d'interopérabilité bidirectionnelle macOS ↔ Windows ; les quatre directions terminées, avec accès MCP | Node.js · Python · Rust | Disponible | MIT | [dépôt](https://github.com/ntars/Wacmin) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | Jeu de spécifications génériques couvrant tout le cycle de vie ; 66 spécifications en chinois et en anglais, avec CLI, MCP et Skill | Markdown · CLI Python | Livré | MIT | [dépôt](https://github.com/ntars/Gitrule-skill) |
 | **[TapMC](https://github.com/ntars/TapMC)** | Squelette de jeu sandbox multijoueur modulaire : front Flutter sur sept cibles et serveur Java, reliés par un seul contrat JSON-RPC 2.0 | Flutter · Java 21 | Étape de squelette | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Suite de personnalisation du bureau Windows : dock, barre de menus, widgets, îlot dynamique | À définir | Planifié | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Site du studio et index des projets ; un fichier HTML, une feuille de style, quelques scripts natifs | HTML · CSS · Vanilla JS | En ligne | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | IDE visuel Flutter centré sur le source ; le canevas produit du Dart maintenable sans l'outil | Dart · Flutter | Étape de squelette `0.1.0` | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/Flutter-IDE) |
 
-**Sept projets = les sept cartes du site officiel.** Les trois listes (cartes du site, cette page, README de chaque projet) restent identiques ; toute modification de l'une se répercute sur les autres.
+**Neuf projets = les neuf cartes du site officiel.** Les trois listes (cartes du site, cette page, README de chaque projet) restent identiques ; toute modification de l'une se répercute sur les autres.
 
 **Les états sont strictement distingués** : publié, bêta, disponible, développement initial et planifié ne sont jamais mélangés, et rien de planifié n'est décrit comme réalisé.
 

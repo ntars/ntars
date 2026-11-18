@@ -25,13 +25,15 @@
 | **[Ondra（空谷）](https://github.com/ntars/Ondra)** | 全プラグイン方式の AI コンパニオン。UI はプラグインの投影だけを読み、感情・記憶・文脈が中核、データはすべて端末内 | Flutter · Cordis 4.1.0 | ベータ `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | ブラウザで動く Android 玩机ツールボックス。WebUSB で ADB と Fastboot に直接接続、152 機能 | TypeScript · Vite · WebUSB | 0.1.0 公開済み | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | macOS と Windows の双方向相互運用スイート。4 方向すべて完了、MCP 接続も提供 | Node.js · Python · Rust | 利用可能 | MIT | [リポジトリ](https://github.com/ntars/Wacmin) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | プロジェクト全ライフサイクルを覆う汎用規範テンプレート。規範 66 篇を中英二言語で提供し、CLI・MCP・Skill の三形態を同梱 | Markdown · Python CLI | 提供済み | MIT | [リポジトリ](https://github.com/ntars/Gitrule-skill) |
 | **[TapMC](https://github.com/ntars/TapMC)** | モジュール化可能なマルチプレイ砂場ゲームの骨組み。Flutter の 7 端末フロントエンドと Java サーバーを 1 本の JSON-RPC 2.0 契約でつなぐ | Flutter · Java 21 | 骨組み段階 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Windows 向けデスクトップ美化スイート：dock、メニューバー、ウィジェット、ダイナミックアイランド | 未定 | 計画中 / Planned | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | スタジオ公式サイトとプロジェクト総索引。HTML 一枚、スタイルシート一枚、素のスクリプト数本 | HTML · CSS · Vanilla JS | 公開中 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | ソース優先の Flutter ビジュアル構築 IDE。キャンバス操作から、ツールなしでも保守できる Dart を出力 | Dart · Flutter | 骨組み段階 `0.1.0` | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Flutter-IDE) |
 
-**7 プロジェクト = 公式サイトの 7 枚のカード。** 3 か所のリスト（サイトのカード、本ページ、各プロジェクトの README）は同一で、1 か所を変えれば残りも同期します。
+**9 プロジェクト = 公式サイトの 9 枚のカード。** 3 か所のリスト（サイトのカード、本ページ、各プロジェクトの README）は同一で、1 か所を変えれば残りも同期します。
 
-**状態の表現は厳密に区別します**：公開済み、ベータ、利用可能、開発初期、計画中の 5 つを混用せず、計画を実装済みとして書きません。
+**状態の表現は厳密に区別します**：公開済み、提供済み、ベータ、利用可能、骨組み段階、計画中の 6 つを混用せず、計画を実装済みとして書きません。
 
 ---
 

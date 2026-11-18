@@ -27,11 +27,13 @@
 | **[Ondra](https://github.com/ntars/Ondra)** | رفيق ذكاء اصطناعي قائم على الإضافات: الواجهة تقرأ إسقاط الإضافات فقط، والانفعال والذاكرة والسياق هي النواة، والبيانات على الجهاز | Flutter · Cordis 4.1.0 | تجريبي `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | صندوق أدوات أندرويد داخل المتصفح: ADB وFastboot عبر WebUSB، و152 وظيفة | TypeScript · Vite · WebUSB | 0.1.0 صادرة | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | حزمة تشغيل متبادل ثنائي الاتجاه بين macOS وWindows؛ الاتجاهات الأربعة مكتملة، مع وصول MCP | Node.js · Python · Rust | متاح | MIT | [المستودع](https://github.com/ntars/Wacmin) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | مجموعة مواصفات عامة تغطي دورة حياة المشروع؛ ٦٦ مواصفة بالصينية والإنجليزية مع CLI وMCP وSkill | Markdown · Python CLI | مُسلَّم | MIT | [المستودع](https://github.com/ntars/Gitrule-skill) |
+| **[Apex](https://github.com/ntars/Apex)** | موقع الاستوديو وفهرس المشاريع؛ ملف HTML واحد، ورقة أنماط واحدة، وبضعة سكربتات أصلية | HTML · CSS · Vanilla JS | يعمل | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 | **[TapMC](https://github.com/ntars/TapMC)** | هيكل لعبة رملية متعددة اللاعبين قابلة للتوسيع: واجهة Flutter على سبع منصات وخادم Java، يربطها عقد JSON-RPC 2.0 واحد | Flutter · Java 21 | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | حزمة تجميل سطح مكتب Windows: dock وشريط قوائم وودجات وجزيرة ديناميكية | غير محدد | مخطط / Planned | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Desop) |
-| **[Apex](https://github.com/ntars/Apex)** | موقع الاستوديو وفهرس المشاريع؛ ملف HTML واحد، ورقة أنماط واحدة، وبضعة سكربتات أصلية | HTML · CSS · Vanilla JS | يعمل | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | بيئة تطوير مرئية لـ Flutter تضع الشيفرة أولًا؛ اللوحة تنتج Dart قابلًا للصيانة دون الأداة | Dart · Flutter | مرحلة الهيكل `0.1.0` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Flutter-IDE) |
 
-**سبعة مشاريع = البطاقات السبع في الموقع الرسمي.** القوائم الثلاث (بطاقات الموقع، هذه الصفحة، README كل مشروع) متطابقة؛ وأي تغيير في واحدة ينعكس على الأخريين.
+**تسعة مشاريع = البطاقات التسع في الموقع الرسمي.** القوائم الثلاث (بطاقات الموقع، هذه الصفحة، README كل مشروع) متطابقة؛ وأي تغيير في واحدة ينعكس على الأخريين.
 
 **الحالات متميزة بدقة**: صادر، تجريبي، متاح، تطوير مبكر، ومخطط — لا تُخلط أبدًا، ولا يُوصف المخطط كمنجَز.
 

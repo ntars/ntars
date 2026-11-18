@@ -25,11 +25,13 @@ Desarrollador independiente, fundador de Ntarstudio. Creo software local-first, 
 | **[Ondra](https://github.com/ntars/Ondra)** | Compañero de IA totalmente modular: la interfaz solo lee la proyección de los complementos; emoción, memoria y contexto en el núcleo; datos locales | Flutter · Cordis 4.1.0 | Beta `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | Una caja de herramientas Android en el navegador: ADB y Fastboot por WebUSB, 152 funciones | TypeScript · Vite · WebUSB | 0.1.0 publicada | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | Suite de interoperabilidad bidireccional macOS ↔ Windows; las cuatro direcciones terminadas, con acceso MCP | Node.js · Python · Rust | Disponible | MIT | [repositorio](https://github.com/ntars/Wacmin) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | Conjunto de especificaciones genéricas para todo el ciclo de vida; 66 especificaciones en chino e inglés, con CLI, MCP y Skill | Markdown · CLI en Python | Entregado | MIT | [repositorio](https://github.com/ntars/Gitrule-skill) |
 | **[TapMC](https://github.com/ntars/TapMC)** | Esqueleto de juego sandbox multijugador modular: front Flutter en siete plataformas y servidor Java, unidos por un único contrato JSON-RPC 2.0 | Flutter · Java 21 | Etapa de esqueleto | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Suite de personalización del escritorio de Windows: dock, barra de menús, widgets, isla dinámica | Por definir | Planificado | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Sitio del estudio e índice de proyectos; un archivo HTML, una hoja de estilos, unos pocos scripts nativos | HTML · CSS · Vanilla JS | En línea | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | IDE visual de Flutter centrado en el código; el lienzo produce Dart mantenible sin la herramienta | Dart · Flutter | Etapa de esqueleto `0.1.0` | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/Flutter-IDE) |
 
-**Siete proyectos = las siete tarjetas del sitio oficial.** Las tres listas (tarjetas del sitio, esta página, README de cada proyecto) coinciden; un cambio en una se refleja en las demás.
+**Nueve proyectos = las nueve tarjetas del sitio oficial.** Las tres listas (tarjetas del sitio, esta página, README de cada proyecto) coinciden; un cambio en una se refleja en las demás.
 
 **Los estados se distinguen estrictamente**: publicado, beta, disponible, desarrollo inicial y planificado nunca se mezclan, y nada planificado se describe como construido.
 

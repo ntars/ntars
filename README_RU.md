@@ -25,11 +25,13 @@
 | **[Ondra](https://github.com/ntars/Ondra)** | Полностью модульный ИИ-компаньон: интерфейс читает только проекции плагинов; эмоция, память и контекст — ядро; данные на устройстве | Flutter · Cordis 4.1.0 | Бета `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
 | **[Webroit](https://github.com/ntars/Webroit)** | Инструментарий для Android в браузере: ADB и Fastboot через WebUSB, 152 функции | TypeScript · Vite · WebUSB | 0.1.0 выпущена | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Wacmin](https://github.com/ntars/Wacmin)** | Набор двусторонней совместимости macOS ↔ Windows; все четыре направления завершены, есть доступ через MCP | Node.js · Python · Rust | Доступно | MIT | [репозиторий](https://github.com/ntars/Wacmin) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | Набор универсальных спецификаций на весь жизненный цикл; 66 спецификаций на китайском и английском, с CLI, MCP и Skill | Markdown · Python CLI | Поставлен | MIT | [репозиторий](https://github.com/ntars/Gitrule-skill) |
 | **[TapMC](https://github.com/ntars/TapMC)** | Каркас многопользовательской песочницы с поддержкой модов: фронтенд Flutter на семи платформах и сервер на Java, связанные одним контрактом JSON-RPC 2.0 | Flutter · Java 21 | Этап каркаса | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Набор для оформления рабочего стола Windows: dock, строка меню, виджеты, dynamic island | Не определён | Запланировано | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Сайт студии и индекс проектов; один HTML-файл, одна таблица стилей, несколько нативных скриптов | HTML · CSS · Vanilla JS | Работает | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | Визуальная IDE для Flutter с приоритетом исходного кода; холст даёт поддерживаемый Dart без участия инструмента | Dart · Flutter | Этап каркаса `0.1.0` | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/Flutter-IDE) |
 
-**Семь проектов = семь карточек на официальном сайте.** Три списка (карточки сайта, эта страница, README каждого проекта) совпадают; изменение в одном отражается в остальных.
+**Девять проектов = девять карточек на официальном сайте.** Три списка (карточки сайта, эта страница, README каждого проекта) совпадают; изменение в одном отражается в остальных.
 
 **Состояния строго различаются**: выпущено, бета, доступно, ранняя разработка и запланировано никогда не смешиваются, и запланированное не описывается как готовое.
 
