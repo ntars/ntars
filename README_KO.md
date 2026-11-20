@@ -19,18 +19,20 @@
 
 ## 진행 중인 프로젝트
 
+10개 프로젝트는 상태에 따라 「공개·제공 완료」「개발 중」「계획 중」 세 그룹으로 나누고, 그룹 안에서는 프로젝트 이름의 라틴 문자 순서로 정렬합니다.
+
 | 프로젝트 | 내용 | 기술 | 상태 | 라이선스 | 입구 |
 | --- | --- | --- | --- | --- | --- |
-| **[Xael(현구령서)](https://github.com/ntars/Xael)** | 오프라인으로 동작하는 중화 문화 술수 문헌 라이브러리. 22개 기능을 처음부터 연산, 조회표 없음, 네트워크 없음 | JavaScript(의존성 없음) | 5.0.0 공개 | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Ondra(공곡)](https://github.com/ntars/Ondra)** | 전면 플러그인 방식 AI 컴패니언. UI는 플러그인 투영만 읽고 감정·기억·맥락이 핵심, 데이터는 모두 기기 안 | Flutter · Cordis 4.1.0 | 베타 `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Webroit](https://github.com/ntars/Webroit)** | 브라우저에서 돌아가는 안드로이드 커스터마이징 도구함. WebUSB로 ADB와 Fastboot 직접 연결, 152개 기능 | TypeScript · Vite · WebUSB | 0.1.0 공개 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
-| **[Wacmin](https://github.com/ntars/Wacmin)** | macOS와 Windows 양방향 상호운용 제품군. 네 방향 모두 완료, MCP 연결 제공 | Node.js · Python · Rust | 사용 가능 | MIT | [저장소](https://github.com/ntars/Wacmin) |
-| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | 프로젝트 전체 수명주기를 덮는 범용 규범 템플릿. 규범 66편을 중·영 두 언어로 제공하고 CLI·MCP·Skill 세 형태를 포함 | Markdown · Python CLI | 제공 완료 | MIT | [저장소](https://github.com/ntars/Gitrule-skill) |
-| **[TapMC](https://github.com/ntars/TapMC)** | 모듈화 가능한 멀티플레이 샌드박스 게임 골격. Flutter 7개 플랫폼 프런트엔드와 Java 서버를 하나의 JSON-RPC 2.0 계약으로 연결 | Flutter · Java 21 | 골격 단계 | Apache-2.0 / MIT | [저장소](https://github.com/ntars/TapMC) |
-| **[Desop](https://github.com/ntars/Desop)** | Windows 데스크톱 미화 제품군: dock, 메뉴 바, 위젯, 다이내믹 아일랜드 | 미정 | 계획 중 / Planned | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | 스튜디오 공식 사이트 겸 프로젝트 총 색인. HTML 한 장, 스타일시트 한 장, 순수 스크립트 몇 개 | HTML · CSS · Vanilla JS | 공개 중 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | 프로젝트 전체 수명주기를 덮는 범용 규범 템플릿. 규범 66편을 중·영 두 언어로 제공하고 CLI·MCP·Skill 세 형태를 포함 | Markdown · Python CLI | 제공 완료 | MIT | [저장소](https://github.com/ntars/Gitrule-skill) |
+| **[Ondra(공곡)](https://github.com/ntars/Ondra)** | 전면 플러그인 방식 AI 컴패니언. UI는 플러그인 투영만 읽고 감정·기억·맥락이 핵심, 데이터는 모두 기기 안 | Flutter · Cordis 4.1.0 | 베타 `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Wacmin](https://github.com/ntars/Wacmin)** | macOS와 Windows 양방향 상호운용 제품군. 네 방향 모두 완료, MCP 연결 제공 | Node.js · Python · Rust | 사용 가능 | MIT | [저장소](https://github.com/ntars/Wacmin) |
+| **[Webroit](https://github.com/ntars/Webroit)** | 브라우저에서 돌아가는 안드로이드 커스터마이징 도구함. WebUSB로 ADB와 Fastboot 직접 연결, 152개 기능 | TypeScript · Vite · WebUSB | 0.1.0 공개 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[Xael(현구령서)](https://github.com/ntars/Xael)** | 오프라인으로 동작하는 중화 문화 술수 문헌 라이브러리. 22개 기능을 처음부터 연산, 조회표 없음, 네트워크 없음 | JavaScript(의존성 없음) | 5.0.0 공개 | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | 소스 우선 Flutter 비주얼 구축 IDE. 캔버스 조작으로 도구 없이도 유지보수할 수 있는 Dart를 출력 | Dart · Flutter | 골격 단계 `0.1.0` | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Flutter-IDE) |
 | **[행간 Serica](https://github.com/ntars/Serica)** | 다중 기기 동기화 앱을 위한 중국어 우선 프로그래밍 언어. 시드 컴파일러가 네이티브 실행 파일을 직접 출력하며 C도 LLVM도 쓰지 않음 | Go(시드) · 셀프호스팅 | 골격 단계 `pre-alpha` | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Serica) |
+| **[TapMC](https://github.com/ntars/TapMC)** | 모듈화 가능한 멀티플레이 샌드박스 게임 골격. Flutter 7개 플랫폼 프런트엔드와 Java 서버를 하나의 JSON-RPC 2.0 계약으로 연결 | Flutter · Java 21 | 골격 단계 | Apache-2.0 / MIT | [저장소](https://github.com/ntars/TapMC) |
+| **[Desop](https://github.com/ntars/Desop)** | Windows 데스크톱 미화 제품군: dock, 메뉴 바, 위젯, 다이내믹 아일랜드 | 미정 | 계획 중 / Planned | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Desop) |
 
 **10개 프로젝트 = 공식 사이트의 카드 10장.** 세 곳의 목록(사이트 카드, 이 페이지, 각 프로젝트 README)은 동일하며, 한 곳을 바꾸면 나머지도 동기화됩니다.
 

@@ -19,18 +19,20 @@
 
 ## Проекты
 
+Десять проектов, сгруппированных по состоянию — выпущенные или поставленные сначала, в разработке в середине, запланированные в конце — и отсортированных по латинскому имени внутри каждой группы.
+
 | Проект | Описание | Технологии | Состояние | Лицензия | Вход |
 | --- | --- | --- | --- | --- | --- |
-| **[Xael](https://github.com/ntars/Xael)** | Автономный корпус китайской метафизики: 22 функции вычисляются с нуля, без таблиц поиска и без сети | JavaScript (без зависимостей) | 5.0.0 выпущена | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Ondra](https://github.com/ntars/Ondra)** | Полностью модульный ИИ-компаньон: интерфейс читает только проекции плагинов; эмоция, память и контекст — ядро; данные на устройстве | Flutter · Cordis 4.1.0 | Бета `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Webroit](https://github.com/ntars/Webroit)** | Инструментарий для Android в браузере: ADB и Fastboot через WebUSB, 152 функции | TypeScript · Vite · WebUSB | 0.1.0 выпущена | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
-| **[Wacmin](https://github.com/ntars/Wacmin)** | Набор двусторонней совместимости macOS ↔ Windows; все четыре направления завершены, есть доступ через MCP | Node.js · Python · Rust | Доступно | MIT | [репозиторий](https://github.com/ntars/Wacmin) |
-| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | Набор универсальных спецификаций на весь жизненный цикл; 66 спецификаций на китайском и английском, с CLI, MCP и Skill | Markdown · Python CLI | Поставлен | MIT | [репозиторий](https://github.com/ntars/Gitrule-skill) |
-| **[TapMC](https://github.com/ntars/TapMC)** | Каркас многопользовательской песочницы с поддержкой модов: фронтенд Flutter на семи платформах и сервер на Java, связанные одним контрактом JSON-RPC 2.0 | Flutter · Java 21 | Этап каркаса | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/TapMC) |
-| **[Desop](https://github.com/ntars/Desop)** | Набор для оформления рабочего стола Windows: dock, строка меню, виджеты, dynamic island | Не определён | Запланировано | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Сайт студии и индекс проектов; один HTML-файл, одна таблица стилей, несколько нативных скриптов | HTML · CSS · Vanilla JS | Работает | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | Набор универсальных спецификаций на весь жизненный цикл; 66 спецификаций на китайском и английском, с CLI, MCP и Skill | Markdown · Python CLI | Поставлен | MIT | [репозиторий](https://github.com/ntars/Gitrule-skill) |
+| **[Ondra](https://github.com/ntars/Ondra)** | Полностью модульный ИИ-компаньон: интерфейс читает только проекции плагинов; эмоция, память и контекст — ядро; данные на устройстве | Flutter · Cordis 4.1.0 | Бета `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Wacmin](https://github.com/ntars/Wacmin)** | Набор двусторонней совместимости macOS ↔ Windows; все четыре направления завершены, есть доступ через MCP | Node.js · Python · Rust | Доступно | MIT | [репозиторий](https://github.com/ntars/Wacmin) |
+| **[Webroit](https://github.com/ntars/Webroit)** | Инструментарий для Android в браузере: ADB и Fastboot через WebUSB, 152 функции | TypeScript · Vite · WebUSB | 0.1.0 выпущена | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[Xael](https://github.com/ntars/Xael)** | Автономный корпус китайской метафизики: 22 функции вычисляются с нуля, без таблиц поиска и без сети | JavaScript (без зависимостей) | 5.0.0 выпущена | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | Визуальная IDE для Flutter с приоритетом исходного кода; холст даёт поддерживаемый Dart без участия инструмента | Dart · Flutter | Этап каркаса `0.1.0` | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/Flutter-IDE) |
 | **[行简 Serica](https://github.com/ntars/Serica)** | Язык программирования с китайским синтаксисом для приложений с синхронизацией между устройствами; затравочный компилятор сразу выдаёт нативные исполняемые файлы, без C и LLVM | Go (затравка) · самостоятельная сборка | Этап каркаса `pre-alpha` | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/Serica) |
+| **[TapMC](https://github.com/ntars/TapMC)** | Каркас многопользовательской песочницы с поддержкой модов: фронтенд Flutter на семи платформах и сервер на Java, связанные одним контрактом JSON-RPC 2.0 | Flutter · Java 21 | Этап каркаса | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/TapMC) |
+| **[Desop](https://github.com/ntars/Desop)** | Набор для оформления рабочего стола Windows: dock, строка меню, виджеты, dynamic island | Не определён | Запланировано | Apache-2.0 / MIT | [репозиторий](https://github.com/ntars/Desop) |
 
 **Десять проектов = десять карточек на официальном сайте.** Три списка (карточки сайта, эта страница, README каждого проекта) совпадают; изменение в одном отражается в остальных.
 

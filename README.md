@@ -21,20 +21,20 @@
 
 ## 在做的事
 
-十个项目，按状态分为「已发布 / 已交付」「开发中」与「排期开发」三组。**官网 <https://www.ntars.cn/> 是同一份清单的另一处呈现**——两处口径一致，任何一处变更都会同步另一处。
+十个项目，按状态分为「已发布 / 已交付」「开发中」与「排期开发」三组，组内按项目名的拉丁字母排序。**官网 <https://www.ntars.cn/> 是同一份清单的另一处呈现**——两处口径一致，任何一处变更都会同步另一处。
 
 | 项目 | 是什么 | 技术 | 状态 | 许可 | 入口 |
 | --- | --- | --- | --- | --- | --- |
-| **[玄玖灵犀 Xael](https://github.com/ntars/Xael)** | 本地离线的中华文化术数文献库，22 项功能从零演算，不查表、不联网 | JavaScript（零依赖） | 5.0.0 已上线 | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[空谷 Ondra](https://github.com/ntars/Ondra)** | 全插件式 AI 陪伴体：界面只读插件投影，情绪、记忆、上下文三大机制，数据全留本机 | Flutter · Cordis 4.1.0 | 内测 `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Webroit](https://github.com/ntars/Webroit)** | 浏览器里的安卓玩机工具箱，WebUSB 直连 ADB 与 Fastboot，152 项能力 | TypeScript · Vite · WebUSB | 0.1.0-dev 已上线 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
-| **[Wacmin](https://github.com/ntars/Wacmin)** | macOS 与 Windows 的双向互通套件，四个方向全部完成，并开放 MCP 接入 | Node.js · Python · Rust | 可用 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Wacmin) |
-| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | 覆盖项目全生命周期的通用规范模板，66 篇规范中英双语，配套 CLI / MCP / Skill 三种接入 | Markdown · Python CLI | 已交付 | MIT | [仓库](https://github.com/ntars/Gitrule-skill) |
-| **[TapMC](https://github.com/ntars/TapMC)** | 可模组化的多人沙盒游戏骨架：Flutter 七端前端 + Java 服务端，只通过一份 JSON-RPC 2.0 协议耦合 | Flutter · Java 21 | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/TapMC) |
-| **[Desop](https://github.com/ntars/Desop)** | Windows 端桌面美化套装，dock、顶部栏、小组件、灵动岛 | 待定 | 排期开发 / Planned | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | 工作室官网与项目总索引，一个 HTML、一份样式表、几个原生脚本 | HTML · CSS · Vanilla JS | 已上线 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | 覆盖项目全生命周期的通用规范模板，66 篇规范中英双语，配套 CLI / MCP / Skill 三种接入 | Markdown · Python CLI | 已交付 | MIT | [仓库](https://github.com/ntars/Gitrule-skill) |
+| **[空谷 Ondra](https://github.com/ntars/Ondra)** | 全插件式 AI 陪伴体：界面只读插件投影，情绪、记忆、上下文三大机制，数据全留本机 | Flutter · Cordis 4.1.0 | 内测 `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Wacmin](https://github.com/ntars/Wacmin)** | macOS 与 Windows 的双向互通套件，四个方向全部完成，并开放 MCP 接入 | Node.js · Python · Rust | 可用 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Wacmin) |
+| **[Webroit](https://github.com/ntars/Webroit)** | 浏览器里的安卓玩机工具箱，WebUSB 直连 ADB 与 Fastboot，152 项能力 | TypeScript · Vite · WebUSB | 0.1.0-dev 已上线 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[玄玖灵犀 Xael](https://github.com/ntars/Xael)** | 本地离线的中华文化术数文献库，22 项功能从零演算，不查表、不联网 | JavaScript（零依赖） | 5.0.0 已上线 | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | 源码优先的 Flutter 可视化搭建 IDE，画布拖拽产出可脱离工具维护的 Dart 代码 | Dart · Flutter | 骨架阶段 `0.1.0` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Flutter-IDE) |
 | **[行简 Serica](https://github.com/ntars/Serica)** | 面向多端同步应用的全中文编程语言，种子编译器直出原生可执行文件，不生成 C、不调用 LLVM | Go（种子）· 自举 | 骨架阶段 `pre-alpha` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Serica) |
+| **[TapMC](https://github.com/ntars/TapMC)** | 可模组化的多人沙盒游戏骨架：Flutter 七端前端 + Java 服务端，只通过一份 JSON-RPC 2.0 协议耦合 | Flutter · Java 21 | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/TapMC) |
+| **[Desop](https://github.com/ntars/Desop)** | Windows 端桌面美化套装，dock、顶部栏、小组件、灵动岛 | 待定 | 排期开发 / Planned | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Desop) |
 
 **十个项目 = 官网首页的十张卡片。** 三处清单（官网卡片、本页、各项目 README）口径一致，任一处变更都会同步其余两处。
 

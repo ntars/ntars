@@ -21,18 +21,20 @@
 
 ## المشاريع
 
+عشرة مشاريع، مرتّبة حسب الحالة — المنشورة أو المسلَّمة أولًا، ثم قيد التطوير، ثم المخطّطة — ومرتّبة داخل كل مجموعة حسب الاسم بالحروف اللاتينية.
+
 | المشروع | الوصف | التقنيات | الحالة | الترخيص | المدخل |
 | --- | --- | --- | --- | --- | --- |
-| **[Xael](https://github.com/ntars/Xael)** | مدونة الميتافيزيقا الصينية تعمل دون اتصال، 22 وظيفة تُحسب من المبادئ الأولى، دون جداول بحث ودون شبكة | JavaScript (بلا اعتماديات) | 5.0.0 صادرة | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Ondra](https://github.com/ntars/Ondra)** | رفيق ذكاء اصطناعي قائم على الإضافات: الواجهة تقرأ إسقاط الإضافات فقط، والانفعال والذاكرة والسياق هي النواة، والبيانات على الجهاز | Flutter · Cordis 4.1.0 | تجريبي `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Webroit](https://github.com/ntars/Webroit)** | صندوق أدوات أندرويد داخل المتصفح: ADB وFastboot عبر WebUSB، و152 وظيفة | TypeScript · Vite · WebUSB | 0.1.0 صادرة | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
-| **[Wacmin](https://github.com/ntars/Wacmin)** | حزمة تشغيل متبادل ثنائي الاتجاه بين macOS وWindows؛ الاتجاهات الأربعة مكتملة، مع وصول MCP | Node.js · Python · Rust | متاح | MIT | [المستودع](https://github.com/ntars/Wacmin) |
-| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | مجموعة مواصفات عامة تغطي دورة حياة المشروع؛ ٦٦ مواصفة بالصينية والإنجليزية مع CLI وMCP وSkill | Markdown · Python CLI | مُسلَّم | MIT | [المستودع](https://github.com/ntars/Gitrule-skill) |
 | **[Apex](https://github.com/ntars/Apex)** | موقع الاستوديو وفهرس المشاريع؛ ملف HTML واحد، ورقة أنماط واحدة، وبضعة سكربتات أصلية | HTML · CSS · Vanilla JS | يعمل | MIT | [www.ntars.cn](https://www.ntars.cn/) |
-| **[TapMC](https://github.com/ntars/TapMC)** | هيكل لعبة رملية متعددة اللاعبين قابلة للتوسيع: واجهة Flutter على سبع منصات وخادم Java، يربطها عقد JSON-RPC 2.0 واحد | Flutter · Java 21 | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/TapMC) |
-| **[Desop](https://github.com/ntars/Desop)** | حزمة تجميل سطح مكتب Windows: dock وشريط قوائم وودجات وجزيرة ديناميكية | غير محدد | مخطط / Planned | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Desop) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | مجموعة مواصفات عامة تغطي دورة حياة المشروع؛ ٦٦ مواصفة بالصينية والإنجليزية مع CLI وMCP وSkill | Markdown · Python CLI | مُسلَّم | MIT | [المستودع](https://github.com/ntars/Gitrule-skill) |
+| **[Ondra](https://github.com/ntars/Ondra)** | رفيق ذكاء اصطناعي قائم على الإضافات: الواجهة تقرأ إسقاط الإضافات فقط، والانفعال والذاكرة والسياق هي النواة، والبيانات على الجهاز | Flutter · Cordis 4.1.0 | تجريبي `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Wacmin](https://github.com/ntars/Wacmin)** | حزمة تشغيل متبادل ثنائي الاتجاه بين macOS وWindows؛ الاتجاهات الأربعة مكتملة، مع وصول MCP | Node.js · Python · Rust | متاح | MIT | [المستودع](https://github.com/ntars/Wacmin) |
+| **[Webroit](https://github.com/ntars/Webroit)** | صندوق أدوات أندرويد داخل المتصفح: ADB وFastboot عبر WebUSB، و152 وظيفة | TypeScript · Vite · WebUSB | 0.1.0 صادرة | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[Xael](https://github.com/ntars/Xael)** | مدونة الميتافيزيقا الصينية تعمل دون اتصال، 22 وظيفة تُحسب من المبادئ الأولى، دون جداول بحث ودون شبكة | JavaScript (بلا اعتماديات) | 5.0.0 صادرة | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | بيئة تطوير مرئية لـ Flutter تضع الشيفرة أولًا؛ اللوحة تنتج Dart قابلًا للصيانة دون الأداة | Dart · Flutter | مرحلة الهيكل `0.1.0` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Flutter-IDE) |
 | **[行简 Serica](https://github.com/ntars/Serica)** | لغة برمجة صينية أولًا لتطبيقات المزامنة بين الأجهزة؛ المترجم البذري يُخرج ملفات تنفيذية أصلية مباشرة، دون C ودون LLVM | Go (بذرة) · استضافة ذاتية | مرحلة الهيكل `pre-alpha` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Serica) |
+| **[TapMC](https://github.com/ntars/TapMC)** | هيكل لعبة رملية متعددة اللاعبين قابلة للتوسيع: واجهة Flutter على سبع منصات وخادم Java، يربطها عقد JSON-RPC 2.0 واحد | Flutter · Java 21 | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/TapMC) |
+| **[Desop](https://github.com/ntars/Desop)** | حزمة تجميل سطح مكتب Windows: dock وشريط قوائم وودجات وجزيرة ديناميكية | غير محدد | مخطط / Planned | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Desop) |
 
 **عشرة مشاريع = البطاقات العشر في الموقع الرسمي.** القوائم الثلاث (بطاقات الموقع، هذه الصفحة، README كل مشروع) متطابقة؛ وأي تغيير في واحدة ينعكس على الأخريين.
 

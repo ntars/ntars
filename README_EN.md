@@ -21,18 +21,20 @@ Independent developer, founder of Ntarstudio. Building software that is local-fi
 
 ## Projects
 
+Ten projects, grouped by status — released or delivered first, in development in the middle, planned last — and sorted by Latin name within each group.
+
 | Project | What it is | Stack | Status | License | Entry |
 | --- | --- | --- | --- | --- | --- |
-| **[Xael](https://github.com/ntars/Xael)** | Offline Chinese metaphysics corpus, 22 functions computed from first principles, no lookup tables, no network | JavaScript (zero dependencies) | 5.0.0 released | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Ondra](https://github.com/ntars/Ondra)** | Plugin-first AI companion: the UI reads only plugin projections; emotion, memory and context are the core mechanisms; all data stays local | Flutter · Cordis 4.1.0 | Beta `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Webroit](https://github.com/ntars/Webroit)** | An Android toolbox in the browser: ADB and Fastboot over WebUSB, 26 features shipped, 152 planned | TypeScript · Vite · WebUSB | 0.1.0 released | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
-| **[Wacmin](https://github.com/ntars/Wacmin)** | Bidirectional macOS ↔ Windows interoperability suite; all four directions complete, with MCP access | Node.js · Python · Rust | Available | MIT | [repository](https://github.com/ntars/Wacmin) |
-| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | Universal specification set covering the project lifecycle; 66 specs in Chinese and English with CLI, MCP and Skill adapters | Markdown · Python CLI | Delivered | MIT | [repository](https://github.com/ntars/Gitrule-skill) |
-| **[TapMC](https://github.com/ntars/TapMC)** | A moddable multiplayer sandbox game skeleton: a Flutter front end on seven platforms plus a Java server, coupled by one JSON-RPC 2.0 contract | Flutter · Java 21 | Skeleton stage | Apache-2.0 / MIT | [repository](https://github.com/ntars/TapMC) |
-| **[Desop](https://github.com/ntars/Desop)** | Windows desktop beautification suite: dock, menu bar, widgets, dynamic island | TBD | Planned | Apache-2.0 / MIT | [repository](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Studio website and project index; one HTML file, one stylesheet, a few plain scripts | HTML · CSS · Vanilla JS | Live | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | Universal specification set covering the project lifecycle; 66 specs in Chinese and English with CLI, MCP and Skill adapters | Markdown · Python CLI | Delivered | MIT | [repository](https://github.com/ntars/Gitrule-skill) |
+| **[Ondra](https://github.com/ntars/Ondra)** | Plugin-first AI companion: the UI reads only plugin projections; emotion, memory and context are the core mechanisms; all data stays local | Flutter · Cordis 4.1.0 | Beta `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Wacmin](https://github.com/ntars/Wacmin)** | Bidirectional macOS ↔ Windows interoperability suite; all four directions complete, with MCP access | Node.js · Python · Rust | Available | MIT | [repository](https://github.com/ntars/Wacmin) |
+| **[Webroit](https://github.com/ntars/Webroit)** | An Android toolbox in the browser: ADB and Fastboot over WebUSB, 26 features shipped, 152 planned | TypeScript · Vite · WebUSB | 0.1.0 released | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[Xael](https://github.com/ntars/Xael)** | Offline Chinese metaphysics corpus, 22 functions computed from first principles, no lookup tables, no network | JavaScript (zero dependencies) | 5.0.0 released | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | Source-first visual IDE for Flutter; canvas drag produces Dart you can maintain without the tool | Dart · Flutter | Skeleton `0.1.0` | Apache-2.0 / MIT | [repository](https://github.com/ntars/Flutter-IDE) |
 | **[Serica](https://github.com/ntars/Serica)** | A Chinese-first programming language for multi-device sync apps; the seed compiler emits native executables directly, with no C and no LLVM | Go (seed) · self-hosting | Skeleton `pre-alpha` | Apache-2.0 / MIT | [repository](https://github.com/ntars/Serica) |
+| **[TapMC](https://github.com/ntars/TapMC)** | A moddable multiplayer sandbox game skeleton: a Flutter front end on seven platforms plus a Java server, coupled by one JSON-RPC 2.0 contract | Flutter · Java 21 | Skeleton stage | Apache-2.0 / MIT | [repository](https://github.com/ntars/TapMC) |
+| **[Desop](https://github.com/ntars/Desop)** | Windows desktop beautification suite: dock, menu bar, widgets, dynamic island | TBD | Planned | Apache-2.0 / MIT | [repository](https://github.com/ntars/Desop) |
 
 **Ten projects = the ten cards on the official site.** The three lists (site cards, this page, each project README) stay identical; a change in one is reflected in the others.
 
