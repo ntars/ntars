@@ -11,7 +11,7 @@
 | 중국어 이름 | 白玖玄 (바이주쉬안) |
 | 영어 이름 | ntars |
 | 역할 | 독립 개발자 · Ntarstudio |
-| 진행 중 | 데스크톱 AI 컴패니언, 중화 술수 문헌 라이브러리, 스튜디오 공식 사이트, 크로스 아키텍처 패키징 도구 |
+| 진행 중 | 데스크톱 AI 컴패니언, 중화 술수 문헌 라이브러리, 스튜디오 공식 사이트, 크로스 아키텍처 패키징 도구, 중국어 우선 프로그래밍 언어 |
 | 거점 | 중국 청두 |
 | 사이트 | <https://www.ntars.cn/> |
 | 이메일 | <ntars@qq.com> · <ntarsx@163.com> |
@@ -30,8 +30,9 @@
 | **[Desop](https://github.com/ntars/Desop)** | Windows 데스크톱 미화 제품군: dock, 메뉴 바, 위젯, 다이내믹 아일랜드 | 미정 | 계획 중 / Planned | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | 스튜디오 공식 사이트 겸 프로젝트 총 색인. HTML 한 장, 스타일시트 한 장, 순수 스크립트 몇 개 | HTML · CSS · Vanilla JS | 공개 중 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | 소스 우선 Flutter 비주얼 구축 IDE. 캔버스 조작으로 도구 없이도 유지보수할 수 있는 Dart를 출력 | Dart · Flutter | 골격 단계 `0.1.0` | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Flutter-IDE) |
+| **[행간 Serica](https://github.com/ntars/Serica)** | 다중 기기 동기화 앱을 위한 중국어 우선 프로그래밍 언어. 시드 컴파일러가 네이티브 실행 파일을 직접 출력하며 C도 LLVM도 쓰지 않음 | Go(시드) · 셀프호스팅 | 골격 단계 `pre-alpha` | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Serica) |
 
-**9개 프로젝트 = 공식 사이트의 카드 9장.** 세 곳의 목록(사이트 카드, 이 페이지, 각 프로젝트 README)은 동일하며, 한 곳을 바꾸면 나머지도 동기화됩니다.
+**10개 프로젝트 = 공식 사이트의 카드 10장.** 세 곳의 목록(사이트 카드, 이 페이지, 각 프로젝트 README)은 동일하며, 한 곳을 바꾸면 나머지도 동기화됩니다.
 
 **상태 표현은 엄격히 구분합니다**: 공개, 제공 완료, 베타, 사용 가능, 골격 단계, 계획 중 여섯 가지를 혼용하지 않고, 계획을 구현된 것으로 쓰지 않습니다.
 

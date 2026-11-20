@@ -11,7 +11,7 @@
 | 中国語名 | 白玖玄（バイ・ジウシュエン） |
 | 英語名 | ntars |
 | 立場 | 独立開発者 · 星玖工作室 Ntarstudio |
-| 取り組み | デスクトップ AI コンパニオン、中華術数文献ライブラリ、スタジオ公式サイト、クロスアーキテクチャ用パッケージングツール |
+| 取り組み | デスクトップ AI コンパニオン、中華術数文献ライブラリ、スタジオ公式サイト、クロスアーキテクチャ用パッケージングツール、中国語を第一言語とするプログラミング言語 |
 | 拠点 | 中国・成都 |
 | サイト | <https://www.ntars.cn/> |
 | メール | <ntars@qq.com> · <ntarsx@163.com> |
@@ -30,8 +30,9 @@
 | **[Desop](https://github.com/ntars/Desop)** | Windows 向けデスクトップ美化スイート：dock、メニューバー、ウィジェット、ダイナミックアイランド | 未定 | 計画中 / Planned | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | スタジオ公式サイトとプロジェクト総索引。HTML 一枚、スタイルシート一枚、素のスクリプト数本 | HTML · CSS · Vanilla JS | 公開中 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | ソース優先の Flutter ビジュアル構築 IDE。キャンバス操作から、ツールなしでも保守できる Dart を出力 | Dart · Flutter | 骨組み段階 `0.1.0` | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Flutter-IDE) |
+| **[行簡 Serica](https://github.com/ntars/Serica)** | 多端末同期アプリ向けの中国語第一言語プログラミング言語。シードコンパイラがネイティブ実行ファイルを直接出力し、C も LLVM も使わない | Go（シード）· セルフホスティング | 骨組み段階 `pre-alpha` | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Serica) |
 
-**9 プロジェクト = 公式サイトの 9 枚のカード。** 3 か所のリスト（サイトのカード、本ページ、各プロジェクトの README）は同一で、1 か所を変えれば残りも同期します。
+**10 プロジェクト = 公式サイトの 10 枚のカード。** 3 か所のリスト（サイトのカード、本ページ、各プロジェクトの README）は同一で、1 か所を変えれば残りも同期します。
 
 **状態の表現は厳密に区別します**：公開済み、提供済み、ベータ、利用可能、骨組み段階、計画中の 6 つを混用せず、計画を実装済みとして書きません。
 

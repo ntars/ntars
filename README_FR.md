@@ -11,7 +11,7 @@ Développeur indépendant, fondateur de Ntarstudio. Je conçois des logiciels lo
 | Nom chinois | 白玖玄 (Bai Jiuxuan) |
 | Nom anglais | ntars |
 | Rôle | Développeur indépendant · Ntarstudio |
-| En cours | Compagnon IA de bureau, corpus de métaphysique chinoise, site du studio, outil d'empaquetage multi-architecture |
+| En cours | Compagnon IA de bureau, corpus de métaphysique chinoise, site du studio, outil d'empaquetage multi-architecture, langage de programmation chinois-first |
 | Basé à | Chengdu, Chine |
 | Site | <https://www.ntars.cn/> |
 | Courriel | <ntars@qq.com> · <ntarsx@163.com> |
@@ -30,8 +30,9 @@ Développeur indépendant, fondateur de Ntarstudio. Je conçois des logiciels lo
 | **[Desop](https://github.com/ntars/Desop)** | Suite de personnalisation du bureau Windows : dock, barre de menus, widgets, îlot dynamique | À définir | Planifié | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Site du studio et index des projets ; un fichier HTML, une feuille de style, quelques scripts natifs | HTML · CSS · Vanilla JS | En ligne | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | IDE visuel Flutter centré sur le source ; le canevas produit du Dart maintenable sans l'outil | Dart · Flutter | Étape de squelette `0.1.0` | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/Flutter-IDE) |
+| **[Serica（行简）](https://github.com/ntars/Serica)** | Langage de programmation chinois-first pour applications synchronisées multi-appareils ; le compilateur germe produit directement des exécutables natifs, sans C ni LLVM | Go (germe) · auto-hébergement | Étape de squelette `pre-alpha` | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/Serica) |
 
-**Neuf projets = les neuf cartes du site officiel.** Les trois listes (cartes du site, cette page, README de chaque projet) restent identiques ; toute modification de l'une se répercute sur les autres.
+**Dix projets = les dix cartes du site officiel.** Les trois listes (cartes du site, cette page, README de chaque projet) restent identiques ; toute modification de l'une se répercute sur les autres.
 
 **Les états sont strictement distingués** : publié, bêta, disponible, développement initial et planifié ne sont jamais mélangés, et rien de planifié n'est décrit comme réalisé.
 

@@ -11,7 +11,7 @@ Independent developer, founder of Ntarstudio. Building software that is local-fi
 | Chinese name | 白玖玄 (Bai Jiuxuan) |
 | English name | ntars |
 | Role | Independent developer · Ntarstudio |
-| Working on | Desktop AI companion, Chinese metaphysics corpus, studio website, cross-architecture packaging tool |
+| Working on | Desktop AI companion, Chinese metaphysics corpus, studio website, cross-architecture packaging tool, Chinese-first programming language |
 | Based in | Chengdu, China |
 | Website | <https://www.ntars.cn/> |
 | Email | <ntars@qq.com> · <ntarsx@163.com> |
@@ -32,8 +32,9 @@ Independent developer, founder of Ntarstudio. Building software that is local-fi
 | **[Desop](https://github.com/ntars/Desop)** | Windows desktop beautification suite: dock, menu bar, widgets, dynamic island | TBD | Planned | Apache-2.0 / MIT | [repository](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Studio website and project index; one HTML file, one stylesheet, a few plain scripts | HTML · CSS · Vanilla JS | Live | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | Source-first visual IDE for Flutter; canvas drag produces Dart you can maintain without the tool | Dart · Flutter | Skeleton `0.1.0` | Apache-2.0 / MIT | [repository](https://github.com/ntars/Flutter-IDE) |
+| **[Serica](https://github.com/ntars/Serica)** | A Chinese-first programming language for multi-device sync apps; the seed compiler emits native executables directly, with no C and no LLVM | Go (seed) · self-hosting | Skeleton `pre-alpha` | Apache-2.0 / MIT | [repository](https://github.com/ntars/Serica) |
 
-**Nine projects = the nine cards on the official site.** The three lists (site cards, this page, each project README) stay identical; a change in one is reflected in the others.
+**Ten projects = the ten cards on the official site.** The three lists (site cards, this page, each project README) stay identical; a change in one is reflected in the others.
 
 **Status wording is strictly separated**: released, beta, available, skeleton stage and planned are never mixed, and nothing planned is described as built.
 

@@ -11,7 +11,7 @@ Desarrollador independiente, fundador de Ntarstudio. Creo software local-first, 
 | Nombre en chino | 白玖玄 (Bai Jiuxuan) |
 | Nombre en inglés | ntars |
 | Rol | Desarrollador independiente · Ntarstudio |
-| Trabajando en | Compañero de IA de escritorio, corpus de metafísica china, sitio del estudio, herramienta de empaquetado multiarquitectura |
+| Trabajando en | Compañero de IA de escritorio, corpus de metafísica china, sitio del estudio, herramienta de empaquetado multiarquitectura, lenguaje de programación con el chino como lengua primera |
 | Ubicación | Chengdu, China |
 | Sitio | <https://www.ntars.cn/> |
 | Correo | <ntars@qq.com> · <ntarsx@163.com> |
@@ -30,8 +30,9 @@ Desarrollador independiente, fundador de Ntarstudio. Creo software local-first, 
 | **[Desop](https://github.com/ntars/Desop)** | Suite de personalización del escritorio de Windows: dock, barra de menús, widgets, isla dinámica | Por definir | Planificado | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | Sitio del estudio e índice de proyectos; un archivo HTML, una hoja de estilos, unos pocos scripts nativos | HTML · CSS · Vanilla JS | En línea | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | IDE visual de Flutter centrado en el código; el lienzo produce Dart mantenible sin la herramienta | Dart · Flutter | Etapa de esqueleto `0.1.0` | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/Flutter-IDE) |
+| **[Serica（行简）](https://github.com/ntars/Serica)** | Lenguaje de programación con el chino como lengua primera para apps sincronizadas entre dispositivos; el compilador semilla produce ejecutables nativos, sin C ni LLVM | Go (semilla) · autoalojado | Etapa de esqueleto `pre-alpha` | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/Serica) |
 
-**Nueve proyectos = las nueve tarjetas del sitio oficial.** Las tres listas (tarjetas del sitio, esta página, README de cada proyecto) coinciden; un cambio en una se refleja en las demás.
+**Diez proyectos = las diez tarjetas del sitio oficial.** Las tres listas (tarjetas del sitio, esta página, README de cada proyecto) coinciden; un cambio en una se refleja en las demás.
 
 **Los estados se distinguen estrictamente**: publicado, beta, disponible, desarrollo inicial y planificado nunca se mezclan, y nada planificado se describe como construido.
 

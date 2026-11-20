@@ -11,7 +11,7 @@
 | 中文名 | 白玖玄 |
 | 英文名 | ntars |
 | 身份 | 独立开发者 · 星玖工作室 Ntarstudio |
-| 在做什么 | 桌面 AI 陪伴体、中华术数文献库、跨平台启动器、桌面美化、跨架构互通 |
+| 在做什么 | 桌面 AI 陪伴体、中华术数文献库、跨平台启动器、桌面美化、跨架构互通、中文编程语言 |
 | 常驻 | 中国成都 |
 | 官网 | <https://www.ntars.cn/> |
 | 邮箱 | <ntars@qq.com> · <ntarsx@163.com> |
@@ -21,7 +21,7 @@
 
 ## 在做的事
 
-九个项目，按状态分为「已发布 / 已交付」「开发中」与「排期开发」三组。**官网 <https://www.ntars.cn/> 是同一份清单的另一处呈现**——两处口径一致，任何一处变更都会同步另一处。
+十个项目，按状态分为「已发布 / 已交付」「开发中」与「排期开发」三组。**官网 <https://www.ntars.cn/> 是同一份清单的另一处呈现**——两处口径一致，任何一处变更都会同步另一处。
 
 | 项目 | 是什么 | 技术 | 状态 | 许可 | 入口 |
 | --- | --- | --- | --- | --- | --- |
@@ -34,8 +34,9 @@
 | **[Desop](https://github.com/ntars/Desop)** | Windows 端桌面美化套装，dock、顶部栏、小组件、灵动岛 | 待定 | 排期开发 / Planned | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Desop) |
 | **[Apex](https://github.com/ntars/Apex)** | 工作室官网与项目总索引，一个 HTML、一份样式表、几个原生脚本 | HTML · CSS · Vanilla JS | 已上线 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | 源码优先的 Flutter 可视化搭建 IDE，画布拖拽产出可脱离工具维护的 Dart 代码 | Dart · Flutter | 骨架阶段 `0.1.0` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Flutter-IDE) |
+| **[行简 Serica](https://github.com/ntars/Serica)** | 面向多端同步应用的全中文编程语言，种子编译器直出原生可执行文件，不生成 C、不调用 LLVM | Go（种子）· 自举 | 骨架阶段 `pre-alpha` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Serica) |
 
-**九个项目 = 官网首页的九张卡片。** 三处清单（官网卡片、本页、各项目 README）口径一致，任一处变更都会同步其余两处。
+**十个项目 = 官网首页的十张卡片。** 三处清单（官网卡片、本页、各项目 README）口径一致，任一处变更都会同步其余两处。
 
 **状态口径严格区分**：已上线、内测、可用、骨架阶段、排期开发五种状态不混用，不把规划说成已实现。
 
