@@ -19,7 +19,7 @@ Desarrollador independiente, fundador de Ntarstudio. Creo software local-first, 
 
 ## Proyectos
 
-Diez proyectos, agrupados por estado — publicados o entregados primero, en desarrollo en medio, planificados al final — y ordenados por nombre latino dentro de cada grupo.
+Trece proyectos, agrupados por estado — publicados o entregados primero, en desarrollo en medio, planificados al final — y ordenados por nombre latino dentro de cada grupo.
 
 | Proyecto | Qué es | Tecnologías | Estado | Licencia | Entrada |
 | --- | --- | --- | --- | --- | --- |
@@ -29,12 +29,15 @@ Diez proyectos, agrupados por estado — publicados o entregados primero, en des
 | **[Wacmin](https://github.com/ntars/Wacmin)** | Suite de interoperabilidad bidireccional macOS ↔ Windows; las cuatro direcciones terminadas, con acceso MCP | Node.js · Python · Rust | Disponible | MIT | [repositorio](https://github.com/ntars/Wacmin) |
 | **[Webroit](https://github.com/ntars/Webroit)** | Una caja de herramientas Android en el navegador: ADB y Fastboot por WebUSB, 152 funciones | TypeScript · Vite · WebUSB | 0.1.0 publicada | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Xael](https://github.com/ntars/Xael)** | Corpus sin conexión de metafísica china, 22 funciones calculadas desde los principios primeros, sin tablas de consulta, sin red | JavaScript (sin dependencias) | 5.0.0 publicada | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
+| **[Amphoreus](https://github.com/ntars/Amphoreus)** | Simulador del mundo de Amphoreus solo para observar, donde la semilla decide la historia, con una recreación en CSS puro del libro «Como lo he escrito» | Python (stdlib) · SQLite | En desarrollo | MIT | [repositorio](https://github.com/ntars/Amphoreus) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | IDE visual de Flutter centrado en el código; el lienzo produce Dart mantenible sin la herramienta | Dart · Flutter | Etapa de esqueleto `0.1.0` | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/Flutter-IDE) |
+| **[NovaKit](https://github.com/ntars/NovaKit)** | La caja de herramientas de escritorio sin conexión que se instala primero en un equipo nuevo: archivos, imágenes, texto y utilidades del sistema | Rust · Tauri 2 | Etapa de esqueleto | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/NovaKit) |
+| **[Relax](https://github.com/ntars/Relax)** | Centro familiar autoalojado para chat, agenda, archivos y fotos, con los datos siempre en el ordenador de casa | Rust · Tauri 2 · SQLite · React | Etapa de esqueleto | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/Relax) |
 | **[Serica（行简）](https://github.com/ntars/Serica)** | Lenguaje de programación con el chino como lengua primera para apps sincronizadas entre dispositivos; el compilador semilla produce ejecutables nativos, sin C ni LLVM | Go (semilla) · autoalojado | Etapa de esqueleto `pre-alpha` | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/Serica) |
 | **[TapMC](https://github.com/ntars/TapMC)** | Esqueleto de juego sandbox multijugador modular: front Flutter en siete plataformas y servidor Java, unidos por un único contrato JSON-RPC 2.0 | Flutter · Java 21 | Etapa de esqueleto | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Suite de personalización del escritorio de Windows: dock, barra de menús, widgets, isla dinámica | Por definir | Planificado | Apache-2.0 / MIT | [repositorio](https://github.com/ntars/Desop) |
 
-**Diez proyectos = las diez tarjetas del sitio oficial.** Las tres listas (tarjetas del sitio, esta página, README de cada proyecto) coinciden; un cambio en una se refleja en las demás.
+**Trece proyectos = las trece tarjetas del sitio oficial.** Las tres listas (tarjetas del sitio, esta página, README de cada proyecto) coinciden; un cambio en una se refleja en las demás.
 
 **Los estados se distinguen estrictamente**: publicado, beta, disponible, desarrollo inicial y planificado nunca se mezclan, y nada planificado se describe como construido.
 

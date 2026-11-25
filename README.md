@@ -21,7 +21,7 @@
 
 ## 在做的事
 
-十个项目，按状态分为「已发布 / 已交付」「开发中」与「排期开发」三组，组内按项目名的拉丁字母排序。**官网 <https://www.ntars.cn/> 是同一份清单的另一处呈现**——两处口径一致，任何一处变更都会同步另一处。
+十三个项目，按状态分为「已发布 / 已交付」「开发中」与「排期开发」三组，组内按项目名的拉丁字母排序。**官网 <https://www.ntars.cn/> 是同一份清单的另一处呈现**——两处口径一致，任何一处变更都会同步另一处。
 
 | 项目 | 是什么 | 技术 | 状态 | 许可 | 入口 |
 | --- | --- | --- | --- | --- | --- |
@@ -31,12 +31,15 @@
 | **[Wacmin](https://github.com/ntars/Wacmin)** | macOS 与 Windows 的双向互通套件，四个方向全部完成，并开放 MCP 接入 | Node.js · Python · Rust | 可用 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Wacmin) |
 | **[Webroit](https://github.com/ntars/Webroit)** | 浏览器里的安卓玩机工具箱，WebUSB 直连 ADB 与 Fastboot，152 项能力 | TypeScript · Vite · WebUSB | 0.1.0-dev 已上线 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[玄玖灵犀 Xael](https://github.com/ntars/Xael)** | 本地离线的中华文化术数文献库，22 项功能从零演算，不查表、不联网 | JavaScript（零依赖） | 5.0.0 已上线 | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
+| **[Amphoreus](https://github.com/ntars/Amphoreus)** | 只看不操控的翁法罗斯世界模拟器，种子决定历史，附纯 CSS 复刻的「如我所书」书册 | Python（标准库）· SQLite | 开发中 | MIT | [仓库](https://github.com/ntars/Amphoreus) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | 源码优先的 Flutter 可视化搭建 IDE，画布拖拽产出可脱离工具维护的 Dart 代码 | Dart · Flutter | 骨架阶段 `0.1.0` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Flutter-IDE) |
+| **[NovaKit](https://github.com/ntars/NovaKit)** | 装完系统只装这一套的离线桌面工具箱，覆盖文件、图片、文本与系统小工具 | Rust · Tauri 2 | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/NovaKit) |
+| **[悠然 Relax](https://github.com/ntars/Relax)** | 家庭自托管的通讯、日程、文件与相册平台，数据只留在家里那台电脑 | Rust · Tauri 2 · SQLite · React | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Relax) |
 | **[行简 Serica](https://github.com/ntars/Serica)** | 面向多端同步应用的全中文编程语言，种子编译器直出原生可执行文件，不生成 C、不调用 LLVM | Go（种子）· 自举 | 骨架阶段 `pre-alpha` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Serica) |
 | **[TapMC](https://github.com/ntars/TapMC)** | 可模组化的多人沙盒游戏骨架：Flutter 七端前端 + Java 服务端，只通过一份 JSON-RPC 2.0 协议耦合 | Flutter · Java 21 | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Windows 端桌面美化套装，dock、顶部栏、小组件、灵动岛 | 待定 | 排期开发 / Planned | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Desop) |
 
-**十个项目 = 官网首页的十张卡片。** 三处清单（官网卡片、本页、各项目 README）口径一致，任一处变更都会同步其余两处。
+**十三个项目 = 官网首页的十三张卡片。** 三处清单（官网卡片、本页、各项目 README）口径一致，任一处变更都会同步其余两处。
 
 **状态口径严格区分**：已上线、内测、可用、骨架阶段、排期开发五种状态不混用，不把规划说成已实现。
 

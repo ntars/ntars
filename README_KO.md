@@ -19,7 +19,7 @@
 
 ## 진행 중인 프로젝트
 
-10개 프로젝트는 상태에 따라 「공개·제공 완료」「개발 중」「계획 중」 세 그룹으로 나누고, 그룹 안에서는 프로젝트 이름의 라틴 문자 순서로 정렬합니다.
+13개 프로젝트는 상태에 따라 「공개·제공 완료」「개발 중」「계획 중」 세 그룹으로 나누고, 그룹 안에서는 프로젝트 이름의 라틴 문자 순서로 정렬합니다.
 
 | 프로젝트 | 내용 | 기술 | 상태 | 라이선스 | 입구 |
 | --- | --- | --- | --- | --- | --- |
@@ -29,12 +29,15 @@
 | **[Wacmin](https://github.com/ntars/Wacmin)** | macOS와 Windows 양방향 상호운용 제품군. 네 방향 모두 완료, MCP 연결 제공 | Node.js · Python · Rust | 사용 가능 | MIT | [저장소](https://github.com/ntars/Wacmin) |
 | **[Webroit](https://github.com/ntars/Webroit)** | 브라우저에서 돌아가는 안드로이드 커스터마이징 도구함. WebUSB로 ADB와 Fastboot 직접 연결, 152개 기능 | TypeScript · Vite · WebUSB | 0.1.0 공개 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Xael(현구령서)](https://github.com/ntars/Xael)** | 오프라인으로 동작하는 중화 문화 술수 문헌 라이브러리. 22개 기능을 처음부터 연산, 조회표 없음, 네트워크 없음 | JavaScript(의존성 없음) | 5.0.0 공개 | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
+| **[Amphoreus](https://github.com/ntars/Amphoreus)** | 보기만 하는 암포레우스 세계 시뮬레이터. 시드가 역사를 결정하고, 순수 CSS로 재현한 「여아소서」 책자를 포함 | Python(표준 라이브러리) · SQLite | 개발 중 | MIT | [저장소](https://github.com/ntars/Amphoreus) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | 소스 우선 Flutter 비주얼 구축 IDE. 캔버스 조작으로 도구 없이도 유지보수할 수 있는 Dart를 출력 | Dart · Flutter | 골격 단계 `0.1.0` | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Flutter-IDE) |
+| **[NovaKit](https://github.com/ntars/NovaKit)** | OS 설치 직후 하나만 깔면 되는 오프라인 도구함. 파일·이미지·텍스트·시스템 도구 포함 | Rust · Tauri 2 | 골격 단계 | Apache-2.0 / MIT | [저장소](https://github.com/ntars/NovaKit) |
+| **[Relax](https://github.com/ntars/Relax)** | 가정용 자체 호스팅 메신저·일정·파일·사진 기반. 데이터는 집 안 PC에만 남는다 | Rust · Tauri 2 · SQLite · React | 골격 단계 | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Relax) |
 | **[행간 Serica](https://github.com/ntars/Serica)** | 다중 기기 동기화 앱을 위한 중국어 우선 프로그래밍 언어. 시드 컴파일러가 네이티브 실행 파일을 직접 출력하며 C도 LLVM도 쓰지 않음 | Go(시드) · 셀프호스팅 | 골격 단계 `pre-alpha` | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Serica) |
 | **[TapMC](https://github.com/ntars/TapMC)** | 모듈화 가능한 멀티플레이 샌드박스 게임 골격. Flutter 7개 플랫폼 프런트엔드와 Java 서버를 하나의 JSON-RPC 2.0 계약으로 연결 | Flutter · Java 21 | 골격 단계 | Apache-2.0 / MIT | [저장소](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Windows 데스크톱 미화 제품군: dock, 메뉴 바, 위젯, 다이내믹 아일랜드 | 미정 | 계획 중 / Planned | Apache-2.0 / MIT | [저장소](https://github.com/ntars/Desop) |
 
-**10개 프로젝트 = 공식 사이트의 카드 10장.** 세 곳의 목록(사이트 카드, 이 페이지, 각 프로젝트 README)은 동일하며, 한 곳을 바꾸면 나머지도 동기화됩니다.
+**13개 프로젝트 = 공식 사이트의 카드 13장.** 세 곳의 목록(사이트 카드, 이 페이지, 각 프로젝트 README)은 동일하며, 한 곳을 바꾸면 나머지도 동기화됩니다.
 
 **상태 표현은 엄격히 구분합니다**: 공개, 제공 완료, 베타, 사용 가능, 골격 단계, 계획 중 여섯 가지를 혼용하지 않고, 계획을 구현된 것으로 쓰지 않습니다.
 

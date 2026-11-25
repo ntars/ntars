@@ -19,7 +19,7 @@ Développeur indépendant, fondateur de Ntarstudio. Je conçois des logiciels lo
 
 ## Projets
 
-Dix projets, répartis par état — publiés ou livrés d'abord, en développement au milieu, planifiés en dernier — et triés par nom latin à l'intérieur de chaque groupe.
+Treize projets, répartis par état — publiés ou livrés d'abord, en développement au milieu, planifiés en dernier — et triés par nom latin à l'intérieur de chaque groupe.
 
 | Projet | Description | Technologies | État | Licence | Entrée |
 | --- | --- | --- | --- | --- | --- |
@@ -29,12 +29,15 @@ Dix projets, répartis par état — publiés ou livrés d'abord, en développem
 | **[Wacmin](https://github.com/ntars/Wacmin)** | Suite d'interopérabilité bidirectionnelle macOS ↔ Windows ; les quatre directions terminées, avec accès MCP | Node.js · Python · Rust | Disponible | MIT | [dépôt](https://github.com/ntars/Wacmin) |
 | **[Webroit](https://github.com/ntars/Webroit)** | Une boîte à outils Android dans le navigateur : ADB et Fastboot en WebUSB, 152 fonctions | TypeScript · Vite · WebUSB | 0.1.0 publiée | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Xael](https://github.com/ntars/Xael)** | Corpus hors ligne de métaphysique chinoise, 22 fonctions calculées depuis les principes premiers, sans tables de correspondance, sans réseau | JavaScript (aucune dépendance) | 5.0.0 publiée | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
+| **[Amphoreus](https://github.com/ntars/Amphoreus)** | Simulateur du monde d'Amphoreus en observation seule, où la graine décide de l'histoire, avec une recréation en CSS pur du livre « Comme je l'ai écrit » | Python (stdlib) · SQLite | En développement | MIT | [dépôt](https://github.com/ntars/Amphoreus) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | IDE visuel Flutter centré sur le source ; le canevas produit du Dart maintenable sans l'outil | Dart · Flutter | Étape de squelette `0.1.0` | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/Flutter-IDE) |
+| **[NovaKit](https://github.com/ntars/NovaKit)** | La boîte à outils de bureau hors ligne à installer en premier sur une machine neuve : fichiers, images, texte et utilitaires système | Rust · Tauri 2 | Étape de squelette | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/NovaKit) |
+| **[Relax](https://github.com/ntars/Relax)** | Hub familial auto-hébergé pour messages, agenda, fichiers et photos, dont les données restent sur l'ordinateur du foyer | Rust · Tauri 2 · SQLite · React | Étape de squelette | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/Relax) |
 | **[Serica（行简）](https://github.com/ntars/Serica)** | Langage de programmation chinois-first pour applications synchronisées multi-appareils ; le compilateur germe produit directement des exécutables natifs, sans C ni LLVM | Go (germe) · auto-hébergement | Étape de squelette `pre-alpha` | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/Serica) |
 | **[TapMC](https://github.com/ntars/TapMC)** | Squelette de jeu sandbox multijoueur modulaire : front Flutter sur sept cibles et serveur Java, reliés par un seul contrat JSON-RPC 2.0 | Flutter · Java 21 | Étape de squelette | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Suite de personnalisation du bureau Windows : dock, barre de menus, widgets, îlot dynamique | À définir | Planifié | Apache-2.0 / MIT | [dépôt](https://github.com/ntars/Desop) |
 
-**Dix projets = les dix cartes du site officiel.** Les trois listes (cartes du site, cette page, README de chaque projet) restent identiques ; toute modification de l'une se répercute sur les autres.
+**Treize projets = les treize cartes du site officiel.** Les trois listes (cartes du site, cette page, README de chaque projet) restent identiques ; toute modification de l'une se répercute sur les autres.
 
 **Les états sont strictement distingués** : publié, bêta, disponible, développement initial et planifié ne sont jamais mélangés, et rien de planifié n'est décrit comme réalisé.
 

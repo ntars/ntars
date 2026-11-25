@@ -19,7 +19,7 @@
 
 ## 制作中のプロジェクト
 
-10 プロジェクトは状態で「公開・提供済み」「開発中」「計画中」の三組に分け、組内はプロジェクト名のラテン文字順に並べています。
+13 プロジェクトは状態で「公開・提供済み」「開発中」「計画中」の三組に分け、組内はプロジェクト名のラテン文字順に並べています。
 
 | プロジェクト | 内容 | 技術 | 状態 | ライセンス | 入口 |
 | --- | --- | --- | --- | --- | --- |
@@ -29,12 +29,15 @@
 | **[Wacmin](https://github.com/ntars/Wacmin)** | macOS と Windows の双方向相互運用スイート。4 方向すべて完了、MCP 接続も提供 | Node.js · Python · Rust | 利用可能 | MIT | [リポジトリ](https://github.com/ntars/Wacmin) |
 | **[Webroit](https://github.com/ntars/Webroit)** | ブラウザで動く Android 玩机ツールボックス。WebUSB で ADB と Fastboot に直接接続、152 機能 | TypeScript · Vite · WebUSB | 0.1.0 公開済み | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Xael（玄玖霊犀）](https://github.com/ntars/Xael)** | オフライン動作する中華文化術数文献ライブラリ。22 機能をゼロから演算、表引きなし、通信なし | JavaScript（依存ゼロ） | 5.0.0 公開済み | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
+| **[Amphoreus](https://github.com/ntars/Amphoreus)** | 見るだけの翁法罗斯世界シミュレーター。シードが歴史を決め、純 CSS で再現した「如我所書」の書冊を同梱 | Python（標準ライブラリ）· SQLite | 開発中 | MIT | [リポジトリ](https://github.com/ntars/Amphoreus) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | ソース優先の Flutter ビジュアル構築 IDE。キャンバス操作から、ツールなしでも保守できる Dart を出力 | Dart · Flutter | 骨組み段階 `0.1.0` | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Flutter-IDE) |
+| **[NovaKit](https://github.com/ntars/NovaKit)** | OS を入れた直後に入れる唯一のオフライン道具箱。ファイル・画像・テキスト・システム小物を収録 | Rust · Tauri 2 | 骨組み段階 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/NovaKit) |
+| **[Relax](https://github.com/ntars/Relax)** | 家庭向けセルフホストの連絡・日程・ファイル・写真基盤。データは家庭内の PC だけに残る | Rust · Tauri 2 · SQLite · React | 骨組み段階 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Relax) |
 | **[行簡 Serica](https://github.com/ntars/Serica)** | 多端末同期アプリ向けの中国語第一言語プログラミング言語。シードコンパイラがネイティブ実行ファイルを直接出力し、C も LLVM も使わない | Go（シード）· セルフホスティング | 骨組み段階 `pre-alpha` | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Serica) |
 | **[TapMC](https://github.com/ntars/TapMC)** | モジュール化可能なマルチプレイ砂場ゲームの骨組み。Flutter の 7 端末フロントエンドと Java サーバーを 1 本の JSON-RPC 2.0 契約でつなぐ | Flutter · Java 21 | 骨組み段階 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Windows 向けデスクトップ美化スイート：dock、メニューバー、ウィジェット、ダイナミックアイランド | 未定 | 計画中 / Planned | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Desop) |
 
-**10 プロジェクト = 公式サイトの 10 枚のカード。** 3 か所のリスト（サイトのカード、本ページ、各プロジェクトの README）は同一で、1 か所を変えれば残りも同期します。
+**13 プロジェクト = 公式サイトの 13 枚のカード。** 3 か所のリスト（サイトのカード、本ページ、各プロジェクトの README）は同一で、1 か所を変えれば残りも同期します。
 
 **状態の表現は厳密に区別します**：公開済み、提供済み、ベータ、利用可能、骨組み段階、計画中の 6 つを混用せず、計画を実装済みとして書きません。
 
