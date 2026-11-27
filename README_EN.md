@@ -21,27 +21,29 @@ Independent developer, founder of Ntarstudio. Building software that is local-fi
 
 ## Projects
 
-Thirteen projects, grouped by status — released or delivered first, in development in the middle, planned last — and sorted by Latin name within each group.
+Fifteen projects, grouped by status — released or delivered first, in development in the middle, planned last — and sorted by Latin name within each group.
 
 | Project | What it is | Stack | Status | License | Entry |
 | --- | --- | --- | --- | --- | --- |
 | **[Apex](https://github.com/ntars/Apex)** | Studio website and project index; one HTML file, one stylesheet, a few plain scripts | HTML · CSS · Vanilla JS | Live | MIT | [www.ntars.cn](https://www.ntars.cn/) |
-| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | Universal specification set covering the project lifecycle; 66 specs in Chinese and English with CLI, MCP and Skill adapters | Markdown · Python CLI | Delivered | MIT | [repository](https://github.com/ntars/Gitrule-skill) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | Universal specification set covering the project lifecycle; 68 specs in 12 languages with CLI, MCP and Skill adapters | Markdown · Python CLI | Delivered | MIT | [repository](https://github.com/ntars/Gitrule-skill) |
 | **[Ondra](https://github.com/ntars/Ondra)** | Plugin-first AI companion: the UI reads only plugin projections; emotion, memory and context are the core mechanisms; all data stays local | Flutter · Cordis 4.1.0 | Beta `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Wacmin](https://github.com/ntars/Wacmin)** | Bidirectional macOS ↔ Windows interoperability suite; all four directions complete, with MCP access | Node.js · Python · Rust | Available | MIT | [repository](https://github.com/ntars/Wacmin) |
-| **[Webroit](https://github.com/ntars/Webroit)** | An Android toolbox in the browser: ADB and Fastboot over WebUSB, 26 features shipped, 152 planned | TypeScript · Vite · WebUSB | 0.1.0 released | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[Wacmin](https://github.com/ntars/Wacmin)** | Bidirectional macOS ↔ Windows interoperability suite; all four directions complete, with MCP access | Node.js · Python · Rust | Available | Apache-2.0 / MIT | [repository](https://github.com/ntars/Wacmin) |
+| **[Webroit](https://github.com/ntars/Webroit)** | An Android toolbox in the browser: ADB and Fastboot over WebUSB, 57 features shipped, 152 planned | TypeScript · Vite · WebUSB | 0.1.0 released | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Xael](https://github.com/ntars/Xael)** | Offline Chinese metaphysics corpus, 22 functions computed from first principles, no lookup tables, no network | JavaScript (zero dependencies) | 5.0.0 released | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
 | **[Amphoreus](https://github.com/ntars/Amphoreus)** | A watch-only Amphoreus world simulator where the seed decides history, with a pure-CSS recreation of the in-game Tarot Book | Python (stdlib) · SQLite | In development | MIT | [repository](https://github.com/ntars/Amphoreus) |
-| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | Source-first visual IDE for Flutter; canvas drag produces Dart you can maintain without the tool | Dart · Flutter | Skeleton `0.1.0` | Apache-2.0 / MIT | [repository](https://github.com/ntars/Flutter-IDE) |
+| **[Chiubay](https://github.com/ntars/Chiubay)** | Growing a self-growing agent from scratch: long-term personal AGI mechanisms research with a fully self-built training stack | Python · NumPy | Research prototype | Apache-2.0 / MIT | [repository](https://github.com/ntars/Chiubay) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | Source-first visual IDE for Flutter; canvas drag produces Dart you can maintain without the tool | Dart · Flutter | Available `0.2.0` | Apache-2.0 / MIT | [repository](https://github.com/ntars/Flutter-IDE) |
 | **[NovaKit](https://github.com/ntars/NovaKit)** | The one offline desktop toolkit to install on a fresh machine, covering file, image, text and system utilities | Rust · Tauri 2 | Skeleton stage | Apache-2.0 / MIT | [repository](https://github.com/ntars/NovaKit) |
-| **[Relax](https://github.com/ntars/Relax)** | A self-hosted family hub for chat, schedules, files and photos, with all data staying on the home computer | Rust · Tauri 2 · SQLite · React | Skeleton stage | Apache-2.0 / MIT | [repository](https://github.com/ntars/Relax) |
+| **[Relax](https://github.com/ntars/Relax)** | A self-hosted family hub for chat, schedules, files and photos, with all data staying on the home computer | Rust · Tauri 2 · SQLite · React | Early development | Apache-2.0 / MIT | [repository](https://github.com/ntars/Relax) |
 | **[Serica](https://github.com/ntars/Serica)** | A Chinese-first programming language for multi-device sync apps; the seed compiler emits native executables directly, with no C and no LLVM | Go (seed) · self-hosting | Skeleton `pre-alpha` | Apache-2.0 / MIT | [repository](https://github.com/ntars/Serica) |
 | **[TapMC](https://github.com/ntars/TapMC)** | A moddable multiplayer sandbox game skeleton: a Flutter front end on seven platforms plus a Java server, coupled by one JSON-RPC 2.0 contract | Flutter · Java 21 | Skeleton stage | Apache-2.0 / MIT | [repository](https://github.com/ntars/TapMC) |
-| **[Desop](https://github.com/ntars/Desop)** | Windows desktop beautification suite: dock, menu bar, widgets, dynamic island | TBD | Planned | Apache-2.0 / MIT | [repository](https://github.com/ntars/Desop) |
+| **[Desop](https://github.com/ntars/Desop)** | Windows desktop beautification suite: dock, menu bar, widgets, dynamic island, in pure Python user mode | Python · PySide6 | Buildable MVP `0.2.0` | Apache-2.0 / MIT | [repository](https://github.com/ntars/Desop) |
+| **[Taycho-OS](https://github.com/ntars/Taycho-OS)** | A native system written from scratch in Serica: capability-based effects, single-threaded UI and message passing (placeholder) | Serica | Design stage / placeholder | Apache-2.0 / MIT | [repository](https://github.com/ntars/Taycho-OS) |
 
-**Thirteen projects = the thirteen cards on the official site.** The three lists (site cards, this page, each project README) stay identical; a change in one is reflected in the others.
+**Fifteen projects plus this profile repository make sixteen GitHub repositories. Fifteen cards on the official site.** The three lists (site cards, this page, each project README) stay identical; a change in one is reflected in the others.
 
-**Status wording is strictly separated**: released, beta, available, skeleton stage and planned are never mixed, and nothing planned is described as built.
+**Status wording is strictly separated**: released, beta, available, early development, skeleton stage and planned are never mixed, and nothing planned is described as built.
 
 ## Keeping the site in step
 
@@ -120,4 +122,12 @@ For bugs and feature requests, open an issue on the relevant repository. For par
 
 ---
 
-<sub>Ntarstudio · ICP Filing 蜀ICP备2026027050号 · ©2024–2026 Ntarstudio. All Rights Reserved.</sub>
+## License
+
+Copyright © 2024–2026 Ntarstudio. Licensed under MIT.
+
+Text, tables and profile content in this repository are MIT-licensed; the full text is in [LICENSE](./LICENSE). Project names, icons and trademarks referenced here are not covered by that licence and require separate permission.
+
+---
+
+<sub>Ntarstudio · ICP Filing 蜀ICP备2026027050号 · ©2024–2026 Ntarstudio. Licensed under MIT.</sub>

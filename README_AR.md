@@ -21,7 +21,7 @@
 
 ## المشاريع
 
-ثلاثة عشر مشروعًا، مرتّبة حسب الحالة — المنشورة أو المسلَّمة أولًا، ثم قيد التطوير، ثم المخطّطة — ومرتّبة داخل كل مجموعة حسب الاسم بالحروف اللاتينية.
+خمسة عشر مشروعًا، مرتّبة حسب الحالة — المنشورة أو المسلَّمة أولًا، ثم قيد التطوير، ثم المخطّطة — ومرتّبة داخل كل مجموعة حسب الاسم بالحروف اللاتينية.
 
 | المشروع | الوصف | التقنيات | الحالة | الترخيص | المدخل |
 | --- | --- | --- | --- | --- | --- |
@@ -32,14 +32,16 @@
 | **[Webroit](https://github.com/ntars/Webroit)** | صندوق أدوات أندرويد داخل المتصفح: ADB وFastboot عبر WebUSB، و152 وظيفة | TypeScript · Vite · WebUSB | 0.1.0 صادرة | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
 | **[Xael](https://github.com/ntars/Xael)** | مدونة الميتافيزيقا الصينية تعمل دون اتصال، 22 وظيفة تُحسب من المبادئ الأولى، دون جداول بحث ودون شبكة | JavaScript (بلا اعتماديات) | 5.0.0 صادرة | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
 | **[Amphoreus](https://github.com/ntars/Amphoreus)** | محاكي عالم أمفوريوس للمشاهدة فقط، حيث تحدد البذرة التاريخ، مع إعادة بناء كتاب «كما كتبت» بـ CSS خالص | Python (المكتبة القياسية) · SQLite | قيد التطوير | MIT | [المستودع](https://github.com/ntars/Amphoreus) |
-| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | بيئة تطوير مرئية لـ Flutter تضع الشيفرة أولًا؛ اللوحة تنتج Dart قابلًا للصيانة دون الأداة | Dart · Flutter | مرحلة الهيكل `0.1.0` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Flutter-IDE) |
+| **[Chiubay](https://github.com/ntars/Chiubay)** | تنمية وكيل ينمو بنفسه من الصفر؛ بحث طويل الأمد في آليات AGI بمكدس تدريب مبني بالكامل | Python · NumPy | نموذج بحثي | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Chiubay) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | بيئة تطوير مرئية لـ Flutter تضع الشيفرة أولًا؛ اللوحة تنتج Dart قابلًا للصيانة دون الأداة | Dart · Flutter | مرحلة الهيكل `0.2.0` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Flutter-IDE) |
 | **[NovaKit](https://github.com/ntars/NovaKit)** | صندوق أدوات سطح المكتب دون اتصال الذي يُثبَّت أولًا على جهاز جديد: الملفات والصور والنصوص وأدوات النظام | Rust · Tauri 2 | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/NovaKit) |
 | **[Relax](https://github.com/ntars/Relax)** | مركز عائلي ذاتي الاستضافة للدردشة والمواعيد والملفات والصور، وتبقى البيانات على حاسوب المنزل | Rust · Tauri 2 · SQLite · React | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Relax) |
 | **[行简 Serica](https://github.com/ntars/Serica)** | لغة برمجة صينية أولًا لتطبيقات المزامنة بين الأجهزة؛ المترجم البذري يُخرج ملفات تنفيذية أصلية مباشرة، دون C ودون LLVM | Go (بذرة) · استضافة ذاتية | مرحلة الهيكل `pre-alpha` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Serica) |
 | **[TapMC](https://github.com/ntars/TapMC)** | هيكل لعبة رملية متعددة اللاعبين قابلة للتوسيع: واجهة Flutter على سبع منصات وخادم Java، يربطها عقد JSON-RPC 2.0 واحد | Flutter · Java 21 | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | حزمة تجميل سطح مكتب Windows: dock وشريط قوائم وودجات وجزيرة ديناميكية | غير محدد | مخطط / Planned | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Desop) |
+| **[Taycho-OS](https://github.com/ntars/Taycho-OS)** | نظام أصلي مكتوب من الصفر بلغة Serica؛ آثار قائمة على القدرات وواجهة أحادية الخيط (عنصر نائب) | Serica | مرحلة التصميم / عنصر نائب | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Taycho-OS) |
 
-**ثلاثة عشر مشروعًا = البطاقات الثلاث عشرة في الموقع الرسمي.** القوائم الثلاث (بطاقات الموقع، هذه الصفحة، README كل مشروع) متطابقة؛ وأي تغيير في واحدة ينعكس على الأخريين.
+**خمسة عشر مشروعًا = البطاقات الخمس عشرة في الموقع الرسمي.** القوائم الثلاث (بطاقات الموقع، هذه الصفحة، README كل مشروع) متطابقة؛ وأي تغيير في واحدة ينعكس على الأخريين.
 
 **الحالات متميزة بدقة**: صادر، تجريبي، متاح، تطوير مبكر، ومخطط — لا تُخلط أبدًا، ولا يُوصف المخطط كمنجَز.
 
