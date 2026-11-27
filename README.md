@@ -39,7 +39,7 @@
 | **[Chiubay 玖白](https://github.com/ntars/Chiubay)** | 从零养育一个会自己长大的智能体，长期个人 AGI 机制研究，全栈自研、禁用预训练 | Python · NumPy | 研究原型 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Chiubay) |
 | **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | 源码优先的 Flutter 可视化搭建 IDE，画布拖拽产出可脱离工具维护的 Dart 代码 | Dart · Flutter | 可用 `0.2.0` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Flutter-IDE) |
 | **[NovaKit](https://github.com/ntars/NovaKit)** | 装完系统只装这一套的离线桌面工具箱，覆盖文件、图片、文本与系统小工具 | Rust · Tauri 2 | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/NovaKit) |
-| **[悠然 Relax](https://github.com/ntars/Relax)** | 家庭自托管的通讯、日程、文件与相册平台，数据只留在家里那台电脑 | Rust · Tauri 2 · SQLite · React | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Relax) |
+| **[悠然 Relax](https://github.com/ntars/Relax)** | 家庭自托管的通讯、日程、文件与相册平台，数据只留在家里那台电脑 | Rust · Tauri 2 · SQLite · React | 早期开发 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Relax) |
 | **[行简 Serica](https://github.com/ntars/Serica)** | 面向多端同步应用的全中文编程语言，种子编译器直出原生可执行文件，不生成 C、不调用 LLVM | Go（种子）· 自举 | 骨架阶段 `pre-alpha` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Serica) |
 | **[TapMC](https://github.com/ntars/TapMC)** | 可模组化的多人沙盒游戏骨架：Flutter 七端前端 + Java 服务端，只通过一份 JSON-RPC 2.0 协议耦合 | Flutter · Java 21 | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/TapMC) |
 | **[Desop](https://github.com/ntars/Desop)** | Windows 端桌面美化套装，dock、顶部栏、小组件、灵动岛，纯 Python 用户态实现 | Python · PySide6 | 可构建 MVP `0.2.0` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Desop) |
