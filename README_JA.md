@@ -19,29 +19,29 @@
 
 ## 制作中のプロジェクト
 
-15 プロジェクトは状態で「公開・提供済み」「開発中」「計画中」の三組に分け、組内はプロジェクト名のラテン文字順に並べています。
+十五のプロジェクトを、プロジェクト名のラテン文字昇順で一列に並べ、状態では分けません。**公式サイト <https://www.ntars.cn/> は同じ一覧の別の現れ方**であり、どちらかを変えればもう一方も同期します。
 
 | プロジェクト | 内容 | 技術 | 状態 | ライセンス | 入口 |
 | --- | --- | --- | --- | --- | --- |
+| **[Amphoreus](https://github.com/ntars/Amphoreus)** | 『崩壊：スターレイル』の「如我所書」を一比一で再現し、自ら動く世界シミュレーションにしたもの。シードが歴史を決め、同じシードなら同じ結末 | Python（標準ライブラリ）· SQLite | 開発中 | MIT | [リポジトリ](https://github.com/ntars/Amphoreus) |
 | **[Apex](https://github.com/ntars/Apex)** | スタジオ公式サイトとプロジェクト総索引。HTML 一枚、スタイルシート一枚、素のスクリプト数本 | HTML · CSS · Vanilla JS | 公開中 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
-| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | プロジェクト全ライフサイクルを覆う汎用規範テンプレート。規範 68 篇を中英二言語で提供し、CLI・MCP・Skill の三形態を同梱 | Markdown · Python CLI | 提供済み | MIT | [リポジトリ](https://github.com/ntars/Gitrule-skill) |
-| **[Ondra（空谷）](https://github.com/ntars/Ondra)** | 全プラグイン方式の AI コンパニオン。UI はプラグインの投影だけを読み、感情・記憶・文脈が中核、データはすべて端末内 | Flutter · Cordis 4.1.0 | ベータ `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Wacmin](https://github.com/ntars/Wacmin)** | macOS と Windows の双方向相互運用スイート。4 方向すべて完了、MCP 接続も提供 | Node.js · Python · Rust | 利用可能 | MIT | [リポジトリ](https://github.com/ntars/Wacmin) |
-| **[Webroit](https://github.com/ntars/Webroit)** | ブラウザで動く Android 玩机ツールボックス。WebUSB で ADB と Fastboot に直接接続、152 機能 | TypeScript · Vite · WebUSB | 0.1.0 公開済み | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
-| **[Xael（玄玖霊犀）](https://github.com/ntars/Xael)** | オフライン動作する中華文化術数文献ライブラリ。22 機能をゼロから演算、表引きなし、通信なし | JavaScript（依存ゼロ） | 5.0.0 公開済み | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Amphoreus](https://github.com/ntars/Amphoreus)** | 見るだけの翁法罗斯世界シミュレーター。シードが歴史を決め、純 CSS で再現した「如我所書」の書冊を同梱 | Python（標準ライブラリ）· SQLite | 開発中 | MIT | [リポジトリ](https://github.com/ntars/Amphoreus) |
-| **[Chiubay](https://github.com/ntars/Chiubay)** | ゼロから育てて自ら成長するエージェント。長期個人 AGI 機構研究、学習スタックを完全自研 | Python · NumPy | 研究プロトタイプ | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Chiubay) |
-| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | ソース優先の Flutter ビジュアル構築 IDE。キャンバス操作から、ツールなしでも保守できる Dart を出力 | Dart · Flutter | 骨組み段階 `0.2.0` | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Flutter-IDE) |
-| **[NovaKit](https://github.com/ntars/NovaKit)** | OS を入れた直後に入れる唯一のオフライン道具箱。ファイル・画像・テキスト・システム小物を収録 | Rust · Tauri 2 | 骨組み段階 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/NovaKit) |
-| **[Relax](https://github.com/ntars/Relax)** | 家庭向けセルフホストの連絡・日程・ファイル・写真基盤。データは家庭内の PC だけに残る | Rust · Tauri 2 · SQLite · React | 骨組み段階 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Relax) |
-| **[行簡 Serica](https://github.com/ntars/Serica)** | 多端末同期アプリ向けの中国語第一言語プログラミング言語。シードコンパイラがネイティブ実行ファイルを直接出力し、C も LLVM も使わない | Go（シード）· セルフホスティング | 骨組み段階 `pre-alpha` | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Serica) |
-| **[TapMC](https://github.com/ntars/TapMC)** | モジュール化可能なマルチプレイ砂場ゲームの骨組み。Flutter の 7 端末フロントエンドと Java サーバーを 1 本の JSON-RPC 2.0 契約でつなぐ | Flutter · Java 21 | 骨組み段階 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/TapMC) |
-| **[Desop](https://github.com/ntars/Desop)** | Windows 向けデスクトップ美化スイート：dock、メニューバー、ウィジェット、ダイナミックアイランド | 未定 | 計画中 / Planned | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Desop) |
-| **[Taycho-OS](https://github.com/ntars/Taycho-OS)** | 行簡（Serica）でゼロから書くネイティブ OS。能力ベースの副作用と単一スレッド UI（プレースホルダー） | Serica | 設計段階 / プレースホルダー | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Taycho-OS) |
+| **[Chiubay 玖白](https://github.com/ntars/Chiubay)** | ゼロから知能を育てる AGI 機構研究。既成モデルを使わず、事前学習にも依存せず、下位の数学演算から訓練ループまですべて自作 | Python · NumPy | 研究プロトタイプ | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Chiubay) |
+| **[Desop](https://github.com/ntars/Desop)** | Windows に macOS 風のデスクトップを与える：dock、トップバー、ウィジェット、ダイナミックアイランド。四つの部品は個別に切り替えでき、システムを変更しない | Python · PySide6 | 構築可能な MVP `0.2.0` | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Desop) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | Flutter のビジュアル界面ツール：キャンバスでドラッグし、プロパティパネルで値を変え、出力はプロジェクト標準の Dart コード | Dart · Flutter | 利用可能 `0.2.0` | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Flutter-IDE) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | 「プロジェクトをどう完遂するか」の規範集。規範 68 篇 × 12 言語、CLI / MCP / Skill の三形態を同梱 | Markdown · Python CLI | 提供済み | MIT | [リポジトリ](https://github.com/ntars/Gitrule-skill) |
+| **[NovaKit](https://github.com/ntars/NovaKit)** | 新しい PC を組んだ直後の最初の小道具：解凍、画像表示、スクリーンショット注釈、一括改名、重複検出、ハッシュ計算など三十数個。すべてオフラインでログイン不要 | Rust · Tauri 2 | 骨組み段階 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/NovaKit) |
+| **[Ondra 空谷](https://github.com/ntars/Ondra)** | AI を会いたい人に変える：長期の寄り添い、感情・記憶・文脈が蓄積し、データは端末内だけに残る | Flutter · Cordis 4.1.0 · dsh | 内部ベータ `3.0.0-alpha.22` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Relax 悠然](https://github.com/ntars/Relax)** | 家庭向けセルフホストのチャット・予定・写真・ネットディスク。データは家の常時起動 PC だけに残る | Rust · Tauri 2 · SQLite · React | 早期開発 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Relax) |
+| **[行簡 Serica](https://github.com/ntars/Serica)** | 全中国語の汎用プログラミング言語：識別子・キーワード・句読点がすべて中国語。設計上はセルフホスティングでネイティブを直接出力し、C も LLVM も使わない | Go（シード）· セルフホスティング | 仕様凍結、実装は字句解析まで | Apache-2.0 | [リポジトリ](https://github.com/ntars/Serica) |
+| **[TapMC](https://github.com/ntars/TapMC)** | 七端を対象とする『Minecraft』Java 版ランチャー：インスタンス、MOD、Java ランタイムを個別に管理 | Flutter · Rust · Java 21 | 骨組み段階 `0.1.0` | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/TapMC) |
+| **[Taycho-OS 太初](https://github.com/ntars/Taycho-OS)** | 行簡（Serica）でゼロから書く OS。能力ベースの副作用、単一スレッド UI、メッセージ伝達（プレースホルダー） | Serica | 設計段階 / プレースホルダー | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Taycho-OS) |
+| **[Wacmin](https://github.com/ntars/Wacmin)** | Mac と Windows の間の「アーキテクチャ不互通」四件事：双方向パッケージングと双方向実行、MCP 接続も提供 | Node.js · Python · Rust | 三方向はリリース可、AppOnWin は実験的 | Apache-2.0 / MIT | [リポジトリ](https://github.com/ntars/Wacmin) |
+| **[Webroit](https://github.com/ntars/Webroit)** | ブラウザで動く Android 玩机：WebUSB で ADB と Fastboot に直接接続、61 機能、バックエンドなし、テレメトリなし | TypeScript · Vite · WebUSB | 0.1.0 公開済み | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[Xael 玄玖霊犀](https://github.com/ntars/Xael)** | 中国の伝統暦法と術数文献の可視化ツール：22 機能を端末内でゼロから推算し、表引きも通信もしない | JavaScript（依存ゼロ） | 5.0.0 公開済み | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
 
-**15 プロジェクト = 公式サイトの 13 枚のカード。** 3 か所のリスト（サイトのカード、本ページ、各プロジェクトの README）は同一で、1 か所を変えれば残りも同期します。
+十五のプロジェクトと本プロフィールリポジトリを合わせて十六の GitHub リポジトリになります。公式サイトの十五枚のカード、本ページ、各プロジェクトの README は同じ一覧を指し、一か所を変えれば残りも同期します。新規プロジェクトはラテン文字の該当位置に挿入し、末尾には追加しません。
 
-**状態の表現は厳密に区別します**：公開済み、提供済み、ベータ、利用可能、骨組み段階、計画中の 6 つを混用せず、計画を実装済みとして書きません。
+**状態の表現は厳密に区別します**：公開中、内部ベータ、利用可能、構築可能な MVP、早期開発、骨組み段階、研究プロトタイプ、設計段階の八つを混用せず、計画を実装済みとして書きません。
 
 ---
 

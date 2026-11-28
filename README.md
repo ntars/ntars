@@ -25,29 +25,29 @@
 
 ## 在做的事
 
-十五个项目，按状态分为「已发布 / 已交付」「开发中」与「排期开发」三组，组内按项目名的拉丁字母排序。**官网 <https://www.ntars.cn/> 是同一份清单的另一处呈现**——两处口径一致，任何一处变更都会同步另一处。
+十五个项目，统一按项目名的拉丁字母升序排列，不按状态分组。**官网 <https://www.ntars.cn/> 是同一份清单的另一处呈现**——两处口径一致，任何一处变更都会同步另一处。
 
 | 项目 | 是什么 | 技术 | 状态 | 许可 | 入口 |
 | --- | --- | --- | --- | --- | --- |
+| **[Amphoreus](https://github.com/ntars/Amphoreus)** | 一比一复刻《崩坏：星穹铁道》的「如我所书」，并做成可自行运转的世界模拟：种子决定历史，同种子必得同一结局 | Python（标准库）· SQLite | 开发中 | MIT | [仓库](https://github.com/ntars/Amphoreus) |
 | **[Apex](https://github.com/ntars/Apex)** | 工作室官网与项目总索引，一个 HTML、一份样式表、几个原生脚本 | HTML · CSS · Vanilla JS | 已上线 | MIT | [www.ntars.cn](https://www.ntars.cn/) |
-| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | 覆盖项目全生命周期的通用规范模板，68 篇规范 × 12 种语言，配套 CLI / MCP / Skill 三种接入 | Markdown · Python CLI | 已交付 | MIT | [仓库](https://github.com/ntars/Gitrule-skill) |
-| **[空谷 Ondra](https://github.com/ntars/Ondra)** | 全插件式 AI 陪伴体：界面只读插件投影，情绪、记忆、上下文三大机制，数据全留本机 | Flutter · Cordis 4.1.0 | 内测 `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Wacmin](https://github.com/ntars/Wacmin)** | macOS 与 Windows 的双向互通套件，四个方向全部完成，并开放 MCP 接入 | Node.js · Python · Rust | 可用 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Wacmin) |
-| **[Webroit](https://github.com/ntars/Webroit)** | 浏览器里的安卓玩机工具箱，WebUSB 直连 ADB 与 Fastboot，57 项已实现、152 项规划 | TypeScript · Vite · WebUSB | 0.1.0-dev 已上线 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
-| **[玄玖灵犀 Xael](https://github.com/ntars/Xael)** | 本地离线的中华文化术数文献库，22 项功能从零演算，不查表、不联网 | JavaScript（零依赖） | 5.0.0 已上线 | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Amphoreus](https://github.com/ntars/Amphoreus)** | 只看不操控的翁法罗斯世界模拟器，种子决定历史，附纯 CSS 复刻的「如我所书」书册，全 MIT 开源 | Python（标准库）· SQLite | 开发中 | MIT | [仓库](https://github.com/ntars/Amphoreus) |
-| **[Chiubay 玖白](https://github.com/ntars/Chiubay)** | 从零养育一个会自己长大的智能体，长期个人 AGI 机制研究，全栈自研、禁用预训练 | Python · NumPy | 研究原型 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Chiubay) |
-| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | 源码优先的 Flutter 可视化搭建 IDE，画布拖拽产出可脱离工具维护的 Dart 代码 | Dart · Flutter | 可用 `0.2.0` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Flutter-IDE) |
-| **[NovaKit](https://github.com/ntars/NovaKit)** | 装完系统只装这一套的离线桌面工具箱，覆盖文件、图片、文本与系统小工具 | Rust · Tauri 2 | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/NovaKit) |
-| **[悠然 Relax](https://github.com/ntars/Relax)** | 家庭自托管的通讯、日程、文件与相册平台，数据只留在家里那台电脑 | Rust · Tauri 2 · SQLite · React | 早期开发 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Relax) |
-| **[行简 Serica](https://github.com/ntars/Serica)** | 面向多端同步应用的全中文编程语言，种子编译器直出原生可执行文件，不生成 C、不调用 LLVM | Go（种子）· 自举 | 骨架阶段 `pre-alpha` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Serica) |
-| **[TapMC](https://github.com/ntars/TapMC)** | 可模组化的多人沙盒游戏骨架：Flutter 七端前端 + Java 服务端，只通过一份 JSON-RPC 2.0 协议耦合 | Flutter · Java 21 | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/TapMC) |
-| **[Desop](https://github.com/ntars/Desop)** | Windows 端桌面美化套装，dock、顶部栏、小组件、灵动岛，纯 Python 用户态实现 | Python · PySide6 | 可构建 MVP `0.2.0` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Desop) |
-| **[Taycho-OS 太初](https://github.com/ntars/Taycho-OS)** | 以行简（Serica）从零写出的原生系统，能力式副作用、单线程 UI 与消息传递（占位仓库） | Serica | 设计阶段 / 占位 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Taycho-OS) |
+| **[Chiubay 玖白](https://github.com/ntars/Chiubay)** | 从零长出智能的 AGI 机制研究：不使用现成模型、不依赖预训练，从底层数学运算到训练循环全部自写 | Python · NumPy | 研究原型 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Chiubay) |
+| **[Desop](https://github.com/ntars/Desop)** | 给 Windows 的 macOS 风格桌面：dock、顶部栏、小组件与灵动岛，四个部件可单独开关，不改系统 | Python · PySide6 | 可构建 MVP `0.2.0` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Desop) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | Flutter 可视化界面工具：画布拖拽、属性面板改值，产出的是项目里标准的 Dart 代码 | Dart · Flutter | 可用 `0.2.0` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Flutter-IDE) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | 「项目如何做完」的规范集，68 篇规范 × 12 种语言，配套 CLI / MCP / Skill 三种接入 | Markdown · Python CLI | 已交付 | MIT | [仓库](https://github.com/ntars/Gitrule-skill) |
+| **[NovaKit](https://github.com/ntars/NovaKit)** | 新电脑装好后第一批小工具：解压、看图、截图标注、批量改名、找重复、算哈希等三十多个，全部离线免登录 | Rust · Tauri 2 | 骨架阶段 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/NovaKit) |
+| **[空谷 Ondra](https://github.com/ntars/Ondra)** | 让 AI 变成你想见的任何人：长期陪伴，情绪、记忆与上下文可累积，数据只留本机 | Flutter · Cordis 4.1.0 · dsh | 内测 `3.0.0-alpha.22` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[悠然 Relax](https://github.com/ntars/Relax)** | 家庭自托管的聊天、日程、相册与网盘，数据只留在家里那台电脑 | Rust · Tauri 2 · SQLite · React | 早期开发 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Relax) |
+| **[行简 Serica](https://github.com/ntars/Serica)** | 全中文通用编程语言：标识符、关键字与标点均为中文，设计上自举直出原生程序，不生成 C、不调用 LLVM | Go（种子）· 自举 | 规格冻结，实现止于词法 | Apache-2.0 | [仓库](https://github.com/ntars/Serica) |
+| **[TapMC](https://github.com/ntars/TapMC)** | 七端可用的《我的世界》Java 版启动器：实例、模组与 Java 运行时各自管理 | Flutter · Rust · Java 21 | 骨架阶段 `0.1.0` | Apache-2.0 / MIT | [仓库](https://github.com/ntars/TapMC) |
+| **[Taycho-OS 太初](https://github.com/ntars/Taycho-OS)** | 以行简（Serica）从零写出的操作系统，能力式副作用、单线程 UI 与消息传递（占位仓库） | Serica | 设计阶段 / 占位 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Taycho-OS) |
+| **[Wacmin](https://github.com/ntars/Wacmin)** | Mac 与 Windows 之间「架构不互通」的四件事：双向打包与双向运行，并开放 MCP 接入 | Node.js · Python · Rust | 三项可发布，AppOnWin 实验性 | Apache-2.0 / MIT | [仓库](https://github.com/ntars/Wacmin) |
+| **[Webroit](https://github.com/ntars/Webroit)** | 浏览器里的安卓玩机：WebUSB 直连 ADB 与 Fastboot，61 项功能，无后端、无遥测 | TypeScript · Vite · WebUSB | 0.1.0 已上线 | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[玄玖灵犀 Xael](https://github.com/ntars/Xael)** | 中国传统历法与术数文献的可视化工具：22 项功能本机从零推算，不查表、不联网 | JavaScript（零依赖） | 5.0.0 已上线 | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
 
-**十五个项目 + 本主页仓库 = 十六个 GitHub 仓库。** 官网首页的十五张卡片、本页与各项目 README 三处清单口径一致，任一处变更都会同步其余两处。
+**十五个项目 + 本主页仓库 = 十六个 GitHub 仓库。** 官网首页的十五张卡片、本页与各项目 README 三处清单口径一致，任一处变更都会同步其余两处；新增项目按拉丁字母插入对应位置，不追加到表尾。
 
-**状态口径严格区分**：已上线、内测、可用、骨架阶段、排期开发五种状态不混用，不把规划说成已实现。
+**状态口径严格区分**：已上线、内测、可用、可构建 MVP、早期开发、骨架阶段、研究原型、设计阶段八种状态不混用，不把规划说成已实现。
 
 ---
 
@@ -68,7 +68,7 @@
 
 **口径一致的三条纪律**：
 
-1. **排期项目也进官网卡片，但必须标注状态**——卡片上写明「排期开发」，访客点进去前就知道没有可下载内容；藏着不展示反而更容易被误读为「已经能做」；
+1. **未发布项目也进官网卡片，但必须标注状态**——卡片上写明「骨架阶段」「设计阶段」等，访客点进去前就知道没有可下载内容；藏着不展示反而更容易被误读为「已经能做」；
 2. **状态变化三处同改**——项目上线、下线或换域名时，本页、Apex 的 `PROJECTS` 数组、项目自身的 README 必须同时更新；
 3. **已下线项目不得以任何形式回流**——不出现在本页、官网页面、关键词或结构化数据里。
 

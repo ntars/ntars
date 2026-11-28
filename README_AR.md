@@ -21,29 +21,29 @@
 
 ## المشاريع
 
-خمسة عشر مشروعًا، مرتّبة حسب الحالة — المنشورة أو المسلَّمة أولًا، ثم قيد التطوير، ثم المخطّطة — ومرتّبة داخل كل مجموعة حسب الاسم بالحروف اللاتينية.
+تُرتَّب المشاريع الخمسة عشر بترتيب أبجدي لاتيني واحد، دون تجميع حسب الحالة. **الموقع الرسمي <https://www.ntars.cn/> عرض آخر للقائمة نفسها**: تغيير أحدهما يزامن الآخر.
 
-| المشروع | الوصف | التقنيات | الحالة | الترخيص | المدخل |
+| المشروع | ما هو | التقنية | الحالة | الترخيص | المدخل |
 | --- | --- | --- | --- | --- | --- |
-| **[Apex](https://github.com/ntars/Apex)** | موقع الاستوديو وفهرس المشاريع؛ ملف HTML واحد، ورقة أنماط واحدة، وبضعة سكربتات أصلية | HTML · CSS · Vanilla JS | يعمل | MIT | [www.ntars.cn](https://www.ntars.cn/) |
-| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | مجموعة مواصفات عامة تغطي دورة حياة المشروع؛ ٦٦ مواصفة بالصينية والإنجليزية مع CLI وMCP وSkill | Markdown · Python CLI | مُسلَّم | MIT | [المستودع](https://github.com/ntars/Gitrule-skill) |
-| **[Ondra](https://github.com/ntars/Ondra)** | رفيق ذكاء اصطناعي قائم على الإضافات: الواجهة تقرأ إسقاط الإضافات فقط، والانفعال والذاكرة والسياق هي النواة، والبيانات على الجهاز | Flutter · Cordis 4.1.0 | تجريبي `2.0.0-alpha` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
-| **[Wacmin](https://github.com/ntars/Wacmin)** | حزمة تشغيل متبادل ثنائي الاتجاه بين macOS وWindows؛ الاتجاهات الأربعة مكتملة، مع وصول MCP | Node.js · Python · Rust | متاح | MIT | [المستودع](https://github.com/ntars/Wacmin) |
-| **[Webroit](https://github.com/ntars/Webroit)** | صندوق أدوات أندرويد داخل المتصفح: ADB وFastboot عبر WebUSB، و152 وظيفة | TypeScript · Vite · WebUSB | 0.1.0 صادرة | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
-| **[Xael](https://github.com/ntars/Xael)** | مدونة الميتافيزيقا الصينية تعمل دون اتصال، 22 وظيفة تُحسب من المبادئ الأولى، دون جداول بحث ودون شبكة | JavaScript (بلا اعتماديات) | 5.0.0 صادرة | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
-| **[Amphoreus](https://github.com/ntars/Amphoreus)** | محاكي عالم أمفوريوس للمشاهدة فقط، حيث تحدد البذرة التاريخ، مع إعادة بناء كتاب «كما كتبت» بـ CSS خالص | Python (المكتبة القياسية) · SQLite | قيد التطوير | MIT | [المستودع](https://github.com/ntars/Amphoreus) |
-| **[Chiubay](https://github.com/ntars/Chiubay)** | تنمية وكيل ينمو بنفسه من الصفر؛ بحث طويل الأمد في آليات AGI بمكدس تدريب مبني بالكامل | Python · NumPy | نموذج بحثي | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Chiubay) |
-| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | بيئة تطوير مرئية لـ Flutter تضع الشيفرة أولًا؛ اللوحة تنتج Dart قابلًا للصيانة دون الأداة | Dart · Flutter | مرحلة الهيكل `0.2.0` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Flutter-IDE) |
-| **[NovaKit](https://github.com/ntars/NovaKit)** | صندوق أدوات سطح المكتب دون اتصال الذي يُثبَّت أولًا على جهاز جديد: الملفات والصور والنصوص وأدوات النظام | Rust · Tauri 2 | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/NovaKit) |
-| **[Relax](https://github.com/ntars/Relax)** | مركز عائلي ذاتي الاستضافة للدردشة والمواعيد والملفات والصور، وتبقى البيانات على حاسوب المنزل | Rust · Tauri 2 · SQLite · React | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Relax) |
-| **[行简 Serica](https://github.com/ntars/Serica)** | لغة برمجة صينية أولًا لتطبيقات المزامنة بين الأجهزة؛ المترجم البذري يُخرج ملفات تنفيذية أصلية مباشرة، دون C ودون LLVM | Go (بذرة) · استضافة ذاتية | مرحلة الهيكل `pre-alpha` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Serica) |
-| **[TapMC](https://github.com/ntars/TapMC)** | هيكل لعبة رملية متعددة اللاعبين قابلة للتوسيع: واجهة Flutter على سبع منصات وخادم Java، يربطها عقد JSON-RPC 2.0 واحد | Flutter · Java 21 | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/TapMC) |
-| **[Desop](https://github.com/ntars/Desop)** | حزمة تجميل سطح مكتب Windows: dock وشريط قوائم وودجات وجزيرة ديناميكية | غير محدد | مخطط / Planned | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Desop) |
-| **[Taycho-OS](https://github.com/ntars/Taycho-OS)** | نظام أصلي مكتوب من الصفر بلغة Serica؛ آثار قائمة على القدرات وواجهة أحادية الخيط (عنصر نائب) | Serica | مرحلة التصميم / عنصر نائب | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Taycho-OS) |
+| **[Amphoreus](https://github.com/ntars/Amphoreus)** | إعادة إنتاج مطابقة لـ«الكتاب كما أكتبه» من Honkai: Star Rail، محوَّلة إلى محاكاة عالمية ذاتية: البذرة تحدد التاريخ، والبذرة نفسها تعطي الخاتمة نفسها | Python (المكتبة القياسية) · SQLite | قيد التطوير | MIT | [المستودع](https://github.com/ntars/Amphoreus) |
+| **[Apex](https://github.com/ntars/Apex)** | الموقع الرسمي للاستوديو وفهرس المشاريع العام. ملف HTML وورقة أنماط وبضعة سكربتات أصلية | HTML · CSS · Vanilla JS | يعمل | MIT | [www.ntars.cn](https://www.ntars.cn/) |
+| **[Chiubay 玖白](https://github.com/ntars/Chiubay)** | بحث في آليات الذكاء العام عبر تنشئة ذكاء من الصفر: بلا نماذج جاهزة وبلا اعتماد على التدريب المسبق، ومن الحساب الأساسي إلى حلقة التدريب كل شيء مكتوب ذاتيًا | Python · NumPy | نموذج بحثي | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Chiubay) |
+| **[Desop](https://github.com/ntars/Desop)** | يمنح Windows سطح مكتب بنمط macOS: شريط سفلي وشريط علوي وودجات وجزيرة ديناميكية. المكونات الأربعة تُشغَّل منفردة ولا تغيّر النظام | Python · PySide6 | حد أدنى قابل للبناء `0.2.0` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Desop) |
+| **[Flutter-IDE](https://github.com/ntars/Flutter-IDE)** | أداة واجهة مرئية لـFlutter: اسحب على اللوحة وعدّل القيم في لوحة الخصائص، والناتج شيفرة Dart قياسية في المشروع | Dart · Flutter | متاح `0.2.0` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Flutter-IDE) |
+| **[Gitrule-skill](https://github.com/ntars/Gitrule-skill)** | مجموعة أعراف حول «كيف يُنجَز المشروع»: 68 مواصفة × 12 لغة، مع CLI وMCP وSkill | Markdown · Python CLI | مُسلَّم | MIT | [المستودع](https://github.com/ntars/Gitrule-skill) |
+| **[NovaKit](https://github.com/ntars/NovaKit)** | أول الأدوات بعد تثبيت حاسوب جديد: فك الضغط، وعرض الصور، والتعليق على اللقطات، وإعادة التسمية بالجملة، والعثور على المكرر، وحساب التجزئات، ونحو ثلاثين أداة؛ كلها دون اتصال ودون حساب | Rust · Tauri 2 | مرحلة الهيكل | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/NovaKit) |
+| **[Ondra 空谷](https://github.com/ntars/Ondra)** | يحوّل الذكاء الاصطناعي إلى من تريد لقاءه: رفقة طويلة، والعاطفة والذاكرة والسياق تتراكم، والبيانات تبقى على الجهاز | Flutter · Cordis 4.1.0 · dsh | تجريبي داخلي `3.0.0-alpha.22` | Apache-2.0 / MIT | [ai.ntars.cn](https://ai.ntars.cn/) |
+| **[Relax 悠然](https://github.com/ntars/Relax)** | دردشة وتقويم وصور وتخزين ملفات عائلي ذاتي الاستضافة؛ البيانات تبقى على حاسوب المنزل الدائم التشغيل | Rust · Tauri 2 · SQLite · React | تطوير مبكر | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Relax) |
+| **[Serica 行简](https://github.com/ntars/Serica)** | لغة برمجة عامة بالصينية بالكامل: المعرّفات والكلمات المفتاحية وعلامات الترقيم؛ مصممة لتستضيف نفسها وتنتج كودًا أصليًا دون C أو LLVM | Go (البذرة) · الاستضافة الذاتية | المواصفة مجمّدة والتنفيذ توقف عند المحلل المعجمي | Apache-2.0 | [المستودع](https://github.com/ntars/Serica) |
+| **[TapMC](https://github.com/ntars/TapMC)** | مشغّل Minecraft Java Edition يستهدف سبع منصات: النسخ والإضافات وبيئات Java تُدار كل على حدة | Flutter · Rust · Java 21 | مرحلة الهيكل `0.1.0` | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/TapMC) |
+| **[Taycho-OS 太初](https://github.com/ntars/Taycho-OS)** | نظام تشغيل مكتوب من الصفر بلغة Serica: آثار قائمة على القدرات، وواجهة أحادية الخيط، وتمرير رسائل (مستودع نائب) | Serica | مرحلة التصميم / نائب | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Taycho-OS) |
+| **[Wacmin](https://github.com/ntars/Wacmin)** | الأمور الأربعة التي تغطيها «عدم توافق المعمارية» بين Mac وWindows: التغليف والتشغيل في الاتجاهين، مع وصول MCP | Node.js · Python · Rust | ثلاثة اتجاهات قابلة للنشر، AppOnWin تجريبي | Apache-2.0 / MIT | [المستودع](https://github.com/ntars/Wacmin) |
+| **[Webroit](https://github.com/ntars/Webroit)** | صندوق أدوات Android في المتصفح: ADB وFastboot عبر WebUSB، 61 وظيفة، بلا خادم خلفي وبلا تتبع | TypeScript · Vite · WebUSB | 0.1.0 يعمل | Apache-2.0 / MIT | [adb.ntars.cn](https://adb.ntars.cn/) |
+| **[Xael 玄玖灵犀](https://github.com/ntars/Xael)** | أداة تصوّر للتقويم الصيني والأدبيات الطالعية: 22 وظيفة تُحسب من الصفر على الجهاز، بلا جداول وبلا شبكة | JavaScript (بلا اعتماديات) | 5.0.0 يعمل | Apache-2.0 / MIT | [x.ntars.cn](https://x.ntars.cn/) |
 
-**خمسة عشر مشروعًا = البطاقات الخمس عشرة في الموقع الرسمي.** القوائم الثلاث (بطاقات الموقع، هذه الصفحة، README كل مشروع) متطابقة؛ وأي تغيير في واحدة ينعكس على الأخريين.
+المشاريع الخمسة عشر مع مستودع الملف الشخصي هذا تشكّل ستة عشر مستودعًا على GitHub. بطاقات الموقع الخمس عشرة، وهذه الصفحة، وREADME كل مشروع تشير إلى القائمة نفسها: تغيير واحدة يزامن البقية. ويُدرج المشروع الجديد في موضعه الأبجدي، لا في نهاية الجدول.
 
-**الحالات متميزة بدقة**: صادر، تجريبي، متاح، تطوير مبكر، ومخطط — لا تُخلط أبدًا، ولا يُوصف المخطط كمنجَز.
+**الحالات تُفرَّق بدقة**: يعمل، وتجريبي داخلي، ومتاح، وحد أدنى قابل للبناء، وتطوير مبكر، ومرحلة الهيكل، ونموذج بحثي، ومرحلة التصميم — لا تُخلط، ولا يُوصف المخطط بأنه منجز.
 
 ---
 
